@@ -3,14 +3,14 @@
 PIC = "countries/Picardy.txt"
 NRM = "countries/Normandy.txt"
 ALE = "countries/Alencon.txt"
-PRS = "countries/Paris.txt" #Needs Country file
+PRI = "countries/Paris.txt" #Needs Country file #Tag was PRS
 CHP = "countries/Champagne.txt"
 ORL = "countries/Orleans.txt"
 BER = "countries/Berry.txt"
 ANJ = "countries/Anjou.txt"#Needs country file
 BRI = "countries/Brittany.txt"
 NEV = "countries/Nevers.txt"
-BUR = "countries/Burgandy.txt"
+BUR = "countries/Burgundy.txt"
 BOU = "countries/Bourbonnais.txt"
 AUV = "countries/Auvergne.txt"
 GUY = "countries/Gascony.txt"
@@ -21,8 +21,8 @@ FOI = "countries/Foix.txt"
 PRO = "countries/Provence.txt"
 SAV = "countries/Savoy.txt"
 BAR = "countries/Bar.txt"
-VDN = "countries/Verdun.txt" #Needs file
-MTZ = "countries/Metz.txt" #needs
+VDN = "countries/Verdun.txt"
+MTZ = "countries/Metz.txt"
 LOR = "countries/Lorraine.txt"
 AVI = "countries/Avignon.txt"
 

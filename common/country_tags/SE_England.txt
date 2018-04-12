@@ -1,7 +1,7 @@
 #Scotland#
 SCO = "countries/Scotland.txt"
 HSC = "countries/Alba.txt"
-ILE = "countries/Theisles.txt"
+LOI = "countries/TheIsles.txt" #Tag was ILE
 ORK = "countries/Orkney.txt"
 SHT = "countries/Shetlands.txt"
 FAR = "countries/Faroes.txt"
@@ -31,6 +31,9 @@ DUB = "countries/Dublin.txt"
 LAI = "countries/Laigin.txt"
 URM = "countries/Ormond.txt"
 THO = "countries/Thomond.txt"
-DSM = "countries/DeasMhumain.txt"
+MCM = "countries/MacCarthy.txt" #Was DSM = "countries/DeasMhumain.txt" #Pardox 1.25 add
 WEX = "countries/Wexford.txt"
-IOM = "countries/Mann.txt"
+KOI = "countries/Mann.txt"#Was IOM = "countries/Mann.txt" #Pardox add 1.25
+
+#Formable
+#Avgion empire, its primary power was form england and arguably fell to become england

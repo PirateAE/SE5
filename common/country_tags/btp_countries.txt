@@ -27,17 +27,17 @@
 CEL = "countries/TirNaCeltigh.txt"
 ANI = "countries/AngloIreland.txt"			#Draiocht changed tag ID from KOI to ANI in 1.25 due to conflict with the new Kingdom of the Isles (Mann) ID.
 #Draiocht removed TYC added in vanilla 1.25 as TRY (same country file, Tyrconnell)
-ANR = "countries/Antrim.txt" #Draiocht changed ANT to ANR fix for 1.16 conflict
+#ANR = "countries/Antrim.txt" #Draiocht changed ANT to ANR fix for 1.16 conflict#Shattered breakup
 #Draiocht removed ULS added in vanilla 1.16 same tag
 #Draiocht removed KIL added in vanilla 1.16 as KID
-LAI = "countries/Laigin.txt"
-URM = "countries/Ormond.txt"
+#LAI = "countries/Laigin.txt"#Shattered breakup
+#URM = "countries/Ormond.txt"#Shattered breakup
 #Draiocht removed DES added in vanilla 1.16 as DMS
 #Draiocht removed DSM added in vanilla 1.25 as MCM (country file DeasMhumhain to MacCarthy)
-THO = "countries/Thomond.txt"
-GLW = "countries/Galway.txt"
+#THO = "countries/Thomond.txt" #Shattered breakup
+#GLW = "countries/Galway.txt"#Shattered breakup
 #Draiocht removed SLI added in vanilla 1.16 as SLN
-MYO = "countries/Mayo.txt"
+#MYO = "countries/Mayo.txt"#Shattered breakup
 
 #BTP Italy
 BLG = "countries/Bologna.txt"
@@ -59,11 +59,11 @@ BEL = "countries/Belgium.txt"
 #Draiocht removed ILE added in vanilla 1.25 as LOI (same country file, TheIsles)
 BSL = "countries/Basel.txt"
 ZND = "countries/Zenden.txt"
-MTZ = "countries/Metz.txt"
-VDN = "countries/Verdun.txt"
+#MTZ = "countries/Metz.txt"#Shattered breakup
+#VDN = "countries/Verdun.txt"#Shattered breakup
 CMB = "countries/Cambrai.txt"
 GRN = "countries/Groningen.txt"
-DUR = "countries/Durham.txt"
+#DUR = "countries/Durham.txt"#Shattered breakup
 MNT = "countries/Montfort.txt"
 
 #3.1
@@ -76,7 +76,7 @@ MRV = "countries/Moravia.txt"
 GMV = "countries/GreatMoravia.txt"
 ILY = "countries/Illyria.txt"
 #Draiocht removed DIT added in vanilla 1.19 as DTT
-LNC = "countries/Lancaster.txt"
+#LNC = "countries/Lancaster.txt"#Shattered breakup
 
 #3.2
 JUL = "countries/Julich.txt"
@@ -114,8 +114,8 @@ SHE = "countries/Sheki.txt"
 #BeyondthePaleLegacyProject work by Draiocht
 
 #Europe
-WEX = "countries/Wexford.txt"
-CLN = "countries/Clandeboye.txt"
+#WEX = "countries/Wexford.txt"#Shattered breakup
+#CLN = "countries/Clandeboye.txt"#Shattered breakup
 GRL = "countries/GreyLeagues.txt"
 MLA = "countries/Mallorca.txt"
 VAL = "countries/Valencia.txt"
