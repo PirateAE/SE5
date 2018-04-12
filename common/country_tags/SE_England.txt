@@ -1,9 +1,9 @@
 #Scotland#
 SCO = "countries/Scotland.txt"
-HSC = "countries/Alba.txt"
+HSC = "countries/Highlands.txt" #Alba
 LOI = "countries/TheIsles.txt" #Tag was ILE
 ORK = "countries/Orkney.txt"
-SHT = "countries/Shetlands.txt"
+SHT = "countries/Shetland.txt"
 FAR = "countries/Faroes.txt"
 ICE = "countries/Iceland.txt"
 #Greenland
@@ -22,7 +22,7 @@ LOD = "countries/London.txt"
 TYC = "countries/Tyrconnell.txt"
 TYR = "countries/Tyrone.txt"
 ANR = "countries/Antrim.txt"
-CLN = "countries/Clanbeboye.txt"
+CLN = "countries/Clandeboye.txt"
 SLN = "countries/Sligo.txt"
 MYO = "countries/Mayo.txt"
 GLW = "countries/Galway.txt"
@@ -35,5 +35,14 @@ MCM = "countries/MacCarthy.txt" #Was DSM = "countries/DeasMhumain.txt" #Pardox 1
 WEX = "countries/Wexford.txt"
 KOI = "countries/Mann.txt"#Was IOM = "countries/Mann.txt" #Pardox add 1.25
 
-#Formable
-#Avgion empire, its primary power was form england and arguably fell to become england
+#Formables
+#FRA/ENG empire, its primary power was from england and arguably fell to become england
+ENG	= "countries/England.txt"
+GBR	= "countries/GreatBritain.txt"
+MTH = "countries/Meath.txt"
+ULS = "countries/Ulster.txt"
+DMS = "countries/Desmond.txt"
+LEI = "countries/Leinster.txt"
+IRE	= "countries/Ireland.txt"
+MNS = "countries/IRE_Munster.txt"
+CNN = "countries/Connacht.txt"
