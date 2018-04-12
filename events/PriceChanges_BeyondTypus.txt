@@ -1,0 +1,9 @@
+namespace = PriceChanges_BeyondTypus
+
+#Beer events #1
+
+#Beer events #2
+
+#Beer events #3
+
+#Dub's Prussian Blue event
