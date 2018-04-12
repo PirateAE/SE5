@@ -119,7 +119,7 @@ leader_names = {
 }
 
 ship_names = {
-	Burke Butler Blake Dillon French Halloran Bermingham Hackett Jennings
+	Burke Butler Dillon French Halloran Bermingham Hackett Jennings
 	Coyne MacDonnell McPhilbin McEvilly McMorris McCostello Jordan
 	Phillips Fitzstephen Fitzgerald Barrett MacWilliam
 	"Ó hUiginn"

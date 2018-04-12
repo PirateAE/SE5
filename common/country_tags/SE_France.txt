@@ -3,11 +3,11 @@
 PIC = "countries/Picardy.txt"
 NRM = "countries/Normandy.txt"
 ALE = "countries/Alencon.txt"
-PRI = "countries/Paris.txt" #Needs Country file #Tag was PRS
+PRI = "countries/Paris.txt"
 CHP = "countries/Champagne.txt"
 ORL = "countries/Orleans.txt"
 BER = "countries/Berry.txt"
-ANJ = "countries/Anjou.txt"#Needs country file
+ANJ = "countries/Anjou.txt"
 BRI = "countries/Brittany.txt"
 NEV = "countries/Nevers.txt"
 BUR = "countries/Burgundy.txt"

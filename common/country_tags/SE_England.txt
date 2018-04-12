@@ -36,7 +36,7 @@ WEX = "countries/Wexford.txt"
 KOI = "countries/Mann.txt"#Was IOM = "countries/Mann.txt" #Pardox add 1.25
 
 #Formables
-#FRA/ENG empire, its primary power was from england and arguably fell to become england
+#ANV = countries/Angevin Empire.txt #its primary power was from england and arguably fell apart to become england
 ENG	= "countries/England.txt"
 GBR	= "countries/GreatBritain.txt"
 MTH = "countries/Meath.txt"

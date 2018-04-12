@@ -99,7 +99,7 @@ leader_names = {
 ship_names = {
 	Bratislava Košice Prešov Žilina Nitra
 	Beskydok "Gerlachovský štít" Rysy Ostrá Záruby
-	Hron Bodrog Dunajec Ipel Tisa
+	Hron Tisa
 	
 	#1.16 added vanilla ship names
 	Bodrog Bebrava Belá Blava Bodva Dunajec "Cierna voda" Hornád Ipel
