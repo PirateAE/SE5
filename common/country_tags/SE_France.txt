@@ -2,12 +2,12 @@
 #Again top-ish down 
 PIC = "countries/Picardy.txt"
 NRM = "countries/Normandy.txt"
-ALC = "countries/Alencon.txt"
-PRS = "countries/Paris.txt"
-CHP = "countries/Chanpagne.txt"
+ALE = "countries/Alencon.txt"
+PRS = "countries/Paris.txt" #Needs Country file
+CHP = "countries/Champagne.txt"
 ORL = "countries/Orleans.txt"
 BER = "countries/Berry.txt"
-ANJ = "countries/Anjou.txt"
+ANJ = "countries/Anjou.txt"#Needs country file
 BRI = "countries/Brittany.txt"
 NEV = "countries/Nevers.txt"
 BUR = "countries/Burgandy.txt"
@@ -21,7 +21,12 @@ FOI = "countries/Foix.txt"
 PRO = "countries/Provence.txt"
 SAV = "countries/Savoy.txt"
 BAR = "countries/Bar.txt"
-VDN = "countries/Verdun.txt"
-MTZ = "countries/Metz.txt"
+VDN = "countries/Verdun.txt" #Needs file
+MTZ = "countries/Metz.txt" #needs
 LOR = "countries/Lorraine.txt"
 AVI = "countries/Avignon.txt"
+
+#Formable
+
+FRA = "countries/France.txt"
+#the Southern trabour one?
