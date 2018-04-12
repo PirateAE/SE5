@@ -1,0 +1,9 @@
+l_english:
+ #ByT stuff
+ HDS:0 "Hidatsa" #BTY WIP tag
+ HDS_ADJ:0 "Hidatsan"
+ VLG:0 "Vologda" #Another BYT tag
+ VLG_ADJ:0 "Vologdan"
+ MCM:0 "MacCarthy"#Byt tag, apparently added by PDX in place of DSM DeasMhumhain... search isnt finding it
+ MCM:0 "MacCarthian"
+ 
