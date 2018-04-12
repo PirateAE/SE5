@@ -1,0 +1,473 @@
+sudanese = {
+	graphical_culture = africangfx
+	
+	acholi = {
+	}
+	nubian = {
+		primary = NUB
+	}
+	beja = {
+		primary = BEJ
+	}
+	luo_culture = {
+		primary = SLK
+		dynasty_names = {
+			Senar
+			# CKII
+			"Bigawi" "Qamhat" "Hadendiwa" "Hadareb" "Beni-Amer" "Hadendoa"
+			"Hedareb" "Jarin" "Bisharin"
+		}
+		male_names = {
+			"'Amâra" "'Abd al-Qâdir" "Nâ'l" "Dakîn al-'Adil" "Dûra" "Taiyîb" "Unsa" "Adlân" "Bâdî" "Rubât" "Nûl" 
+			"Nâsir" "Ranfi" "Eltecit" "Joel" "Koudlaniel" "Isawi" "Hashim" "Maqdum" "Awkal" "Hassan" "Agban" 
+			"Abu Likayik" "Rajab" "Ahmad" "Rifaya" "Ibrahim" "Idris" "Tindhim" "'Abd al-Rahman" "Sulayman" "Yusuf" 
+			"Ya'qub" "Ismâ'îl" "Musa" "Muhammad" "Ishaq" "Halim" "Mustafa" "Abu Bakr" 
+			Aarôn Aaron Aberikos Abraam Abraham Añgelos Angelus Andreas Andrew Athanasios Balô 
+			Bartholomaios Bartholomew Birêl Chael Christophoros Dauid David Dimetheos Timothy
+			Dioskoros Diônisios Dionysus Eliezer Eionkouda Emmanouel Emmanuel Enôch Enoch Ephannê Epimachos 
+			Epiphanios Gabriel Gabrielkouda Gabrielophorou Gennatios Gennadius
+			Geôrgios George Hêlias Elias Hoase Hoassi Hoasse Jesse Iacob Jacob Ieremias 
+			Jeremiah Iêsous Jesus Iêsousinkouda Iôannou Jonah Iôannês John Iordanes Jordanes Ioseph Joseph 
+			Kalinikos Kallinikios Kollouthos
+			Krisanthos Chrystanthos Kuriakos Kyriakos Kurillos Cyril Lazaros Lazarus Leon Leo Leontios 
+			Leontius Makarios Makarius Mariana Mariankouda Marianos Marianus Marios Marius Markos Marcus 
+			Marturophoros
+			Mašanñal Maththias Matthew Mêlênkouda Mena Menankouda Merkourios Mercurius Michaêl Michael 
+			Michaêlkouda Mouses Moses Orna Panigiros Papasinen Papasinkouda Patrikios Patrick
+			Paulos Paul Petros Peter Petrou Philotheos Philemon Prochoros Raphael Raphaelkouda Samson 
+			Senouthios Sentiko Sergios Sergius Simeoni Simon Soizuros Solomôn Solomon Sotinkouda Stephanos 
+			Stephen
+			Stephanou Thadeosi Thaddeus Theodôros Theodore Theodosios Theodosius Theodote Theodat Thoma 
+			Thomas Tophêna Tirsakouni Zacharias Zachary Zosima Zosimus
+		}
+		female_names = {
+			Agathe Alethia Anthelia Athanasia Chaelsoñoja Chrissa Christina Douriko Egaloskoura Eikkir 
+			Eionmnne Eionñoka Eitou Elisabeth Elizabeth Eirena Eirene Eirota Eirotatouññlki
+			Entaeiri Eôneille Ephannê Epimachosi Eudosia Eudoxia Eulabia Eusebia Eustephanou Fatima 
+			Genseoua Hellene Helen Hemene Iannia Joan Iêsousyko Ioustina Justina Kel Kerike Kersiami Kettoudi
+			Keudonia Kurake Kyriake Maraña Mariam Maria Mariane Marianou Michaêliko Michaela 
+			Ñašša Ñeššadena Ñejin Ñilesa Ñojjl Ñoltou Ñonne Ñonnen Ñouddl Ñssitkitol Ouarenô Patrikia 
+			Patricia Pelagia Gulzar Maram
+			Penatti Pesanthia Petronia Prisisilla Priscilla Rahimah Sophia Sousanna Staurophania Theobronia 
+			Theodorake Theodosia Theognosta Theophania Theophilia Theipisthe Theozia Zerebekka
+		}
+	}
+	berta_culture = {
+		#primary = XXX
+		dynasty_names = {
+			Senar
+			# CKII
+			"Bigawi" "Qamhat" "Hadendiwa" "Hadareb" "Beni-Amer" "Hadendoa"
+			"Hedareb" "Jarin" "Bisharin"
+		}
+		male_names = {
+			"'Amâra" "'Abd al-Qâdir" "Nâ'l" "Dakîn al-'Adil" "Dûra" "Taiyîb" "Unsa" "Adlân" "Bâdî" "Rubât" "Nûl" 
+			"Nâsir" "Ranfi" "Eltecit" "Joel" "Koudlaniel" "Isawi" "Hashim" "Maqdum" "Awkal" "Hassan" "Agban" 
+			"Abu Likayik" "Rajab" "Ahmad" "Rifaya" "Ibrahim" "Idris" "Tindhim" "'Abd al-Rahman" "Sulayman" "Yusuf" 
+			"Ya'qub" "Ismâ'îl" "Musa" "Muhammad" "Ishaq" "Halim" "Mustafa" "Abu Bakr" 
+			Aarôn Aaron Aberikos Abraam Abraham Añgelos Angelus Andreas Andrew Athanasios Balô 
+			Bartholomaios Bartholomew Birêl Chael Christophoros Dauid David Dimetheos Timothy
+			Dioskoros Diônisios Dionysus Eliezer Eionkouda Emmanouel Emmanuel Enôch Enoch Ephannê Epimachos 
+			Epiphanios Gabriel Gabrielkouda Gabrielophorou Gennatios Gennadius
+			Geôrgios George Hêlias Elias Hoase Hoassi Hoasse Jesse Iacob Jacob Ieremias 
+			Jeremiah Iêsous Jesus Iêsousinkouda Iôannou Jonah Iôannês John Iordanes Jordanes Ioseph Joseph 
+			Kalinikos Kallinikios Kollouthos
+			Krisanthos Chrystanthos Kuriakos Kyriakos Kurillos Cyril Lazaros Lazarus Leon Leo Leontios 
+			Leontius Makarios Makarius Mariana Mariankouda Marianos Marianus Marios Marius Markos Marcus 
+			Marturophoros
+			Mašanñal Maththias Matthew Mêlênkouda Mena Menankouda Merkourios Mercurius Michaêl Michael 
+			Michaêlkouda Mouses Moses Orna Panigiros Papasinen Papasinkouda Patrikios Patrick
+			Paulos Paul Petros Peter Petrou Philotheos Philemon Prochoros Raphael Raphaelkouda Samson 
+			Senouthios Sentiko Sergios Sergius Simeoni Simon Soizuros Solomôn Solomon Sotinkouda Stephanos 
+			Stephen
+			Stephanou Thadeosi Thaddeus Theodôros Theodore Theodosios Theodosius Theodote Theodat Thoma 
+			Thomas Tophêna Tirsakouni Zacharias Zachary Zosima Zosimus
+		}
+		female_names = {
+			Agathe Alethia Anthelia Athanasia Chaelsoñoja Chrissa Christina Douriko Egaloskoura Eikkir 
+			Eionmnne Eionñoka Eitou Elisabeth Elizabeth Eirena Eirene Eirota Eirotatouññlki
+			Entaeiri Eôneille Ephannê Epimachosi Eudosia Eudoxia Eulabia Eusebia Eustephanou Fatima 
+			Genseoua Hellene Helen Hemene Iannia Joan Iêsousyko Ioustina Justina Kel Kerike Kersiami Kettoudi
+			Keudonia Kurake Kyriake Maraña Mariam Maria Mariane Marianou Michaêliko Michaela 
+			Ñašša Ñeššadena Ñejin Ñilesa Ñojjl Ñoltou Ñonne Ñonnen Ñouddl Ñssitkitol Ouarenô Patrikia 
+			Patricia Pelagia Gulzar Maram
+			Penatti Pesanthia Petronia Prisisilla Priscilla Rahimah Sophia Sousanna Staurophania Theobronia 
+			Theodorake Theodosia Theognosta Theophania Theophilia Theipisthe Theozia Zerebekka
+		}
+	}	
+	dinka = {
+		dynasty_names = {
+			Gok Agaar Pakam Nyang Aliab Clec Bor Nyarweng Hol
+		}
+		male_names = {
+			Kapalei Koinet Komeyicin Kurary Leboo Legeny Legishon Lemaron Lemashon Lemayian Lembui Lemuanik 
+			Lolkerra Maitera Masigonde Mbiraru Mejooli Meticiki Murunga Naengop Nampazo Ntimama Oloishona 
+			Parneres Sabore Sankei Sankale Santamo Simel Sironka Surum Tonkei
+		}
+		female_names = {
+			Isina Kingasunye Kiserian Lankenua Liloe Malazo Naeku Naimutiae Naipanoi Naisaruru Naisenya Naisiae
+			Naisianoi Nalangu Nalutuesha NamelokNamunyak Naramal Naserian Nataana Nkasiogi Peresian Pion Resson
+			Sankau Segeyian Semeyian Siglal Siatamei Simaloi Simu Sintamei Sipanto Sopiato Tanei Tentoyia Terenua
+			Tigisi
+		}
+	}
+	dynasty_names = {
+		Senar
+		# CKII
+		"Bigawi" "Qamhat" "Hadendiwa" "Hadareb" "Beni-Amer" "Hadendoa"
+		"Hedareb" "Jarin" "Bisharin"
+	}
+	male_names = {
+		"'Amâra" "'Abd al-Qâdir" "Nâ'l" "Dakîn al-'Adil" "Dûra" "Taiyîb" "Unsa" "Adlân" "Bâdî" "Rubât" "Nûl" 
+		"Nâsir" "Ranfi" "Eltecit" "Joel" "Koudlaniel" "Isawi" "Hashim" "Maqdum" "Awkal" "Hassan" "Agban" 
+		"Abu Likayik" "Rajab" "Ahmad" "Rifaya" "Ibrahim" "Idris" "Tindhim" "'Abd al-Rahman" "Sulayman" "Yusuf" 
+		"Ya'qub" "Ismâ'îl" "Musa" "Muhammad" "Ishaq" "Halim" "Mustafa" "Abu Bakr" 
+		Aarôn Aaron Aberikos Abraam Abraham Añgelos Angelus Andreas Andrew Athanasios Balô 
+		Bartholomaios Bartholomew Birêl Chael Christophoros Dauid David Dimetheos Timothy
+		Dioskoros Diônisios Dionysus Eliezer Eionkouda Emmanouel Emmanuel Enôch Enoch Ephannê Epimachos 
+		Epiphanios Gabriel Gabrielkouda Gabrielophorou Gennatios Gennadius
+		Geôrgios George Hêlias Elias Hoase Hoassi Hoasse Jesse Iacob Jacob Ieremias 
+		Jeremiah Iêsous Jesus Iêsousinkouda Iôannou Jonah Iôannês John Iordanes Jordanes Ioseph Joseph 
+		Kalinikos Kallinikios Kollouthos
+		Krisanthos Chrystanthos Kuriakos Kyriakos Kurillos Cyril Lazaros Lazarus Leon Leo Leontios 
+		Leontius Makarios Makarius Mariana Mariankouda Marianos Marianus Marios Marius Markos Marcus 
+		Marturophoros
+		Mašanñal Maththias Matthew Mêlênkouda Mena Menankouda Merkourios Mercurius Michaêl Michael 
+		Michaêlkouda Mouses Moses Orna Panigiros Papasinen Papasinkouda Patrikios Patrick
+		Paulos Paul Petros Peter Petrou Philotheos Philemon Prochoros Raphael Raphaelkouda Samson 
+		Senouthios Sentiko Sergios Sergius Simeoni Simon Soizuros Solomôn Solomon Sotinkouda Stephanos 
+		Stephen
+		Stephanou Thadeosi Thaddeus Theodôros Theodore Theodosios Theodosius Theodote Theodat Thoma 
+		Thomas Tophêna Tirsakouni Zacharias Zachary Zosima Zosimus
+	}
+	female_names = {
+		Agathe Alethia Anthelia Athanasia Chaelsoñoja Chrissa Christina Douriko Egaloskoura Eikkir 
+		Eionmnne Eionñoka Eitou Elisabeth Elizabeth Eirena Eirene Eirota Eirotatouññlki
+		Entaeiri Eôneille Ephannê Epimachosi Eudosia Eudoxia Eulabia Eusebia Eustephanou Fatima 
+		Genseoua Hellene Helen Hemene Iannia Joan Iêsousyko Ioustina Justina Kel Kerike Kersiami Kettoudi
+		Keudonia Kurake Kyriake Maraña Mariam Maria Mariane Marianou Michaêliko Michaela 
+		Ñašša Ñeššadena Ñejin Ñilesa Ñojjl Ñoltou Ñonne Ñonnen Ñouddl Ñssitkitol Ouarenô Patrikia 
+		Patricia Pelagia Gulzar Maram
+		Penatti Pesanthia Petronia Prisisilla Priscilla Rahimah Sophia Sousanna Staurophania Theobronia 
+		Theodorake Theodosia Theognosta Theophania Theophilia Theipisthe Theozia Zerebekka
+	}
+}
+
+kongo_group = {
+	graphical_culture = africangfx
+	
+	northern_bantu = {
+		dynasty_names = { 
+			Biya Maigari Ayang Hayatou Musonge Inoni
+		}
+	}
+	gbaya = {
+		dynasty_names = { 
+			Bambote Goyemide
+		}
+	}
+	herero = {
+	}	
+	ovimbundu = {
+		dynasty_names = { 
+			Mwantiyavwa Mbunda
+		}
+	}
+	mongo = {
+	}
+	fang = {
+		dynasty_names = { 
+			Mbene Mombo Bongo M'ba
+		}
+	}
+	#new ByT Culture
+	tegali_culture = {
+		primary = TEG
+		dynasty_names = { 
+			Lukeni Loanga Kalumbwe Kikondja Imbangala Kasanje Shila Kazembe Lunda Kuba
+		}
+		male_names = {
+			Garcia Álvaro Pedro Afonso Ntinu Nkuwu Henrique António Bernardo José Ambrósio Aleixo André Daniel Diogo 
+			Nicolau Nzinga Nkuwa Sebastião Ilunga Sanza Kumwimba Kasongo Kekenya Kaumbo Miketo Nday Mwine Maloba 
+			Kitamba Cibind Nawej Munying Kateng Cakasekene Cikombe Kalong Mutand Mbala Mukaz Mpemba
+		}
+		female_names = {
+			Jetta Vandana Zody 
+		}
+	}	
+}
+
+khoisan = {
+	graphical_culture = africangfx
+	
+	khoi = {
+		male_names = {
+			"/Han kass'o" Wilta "!Kau-/kutten" Kebbi-an "!Kwabba-an" "/Hari Kafsho" Mansse "!Kau/noan" /Abbe-ttu //Khwai-/ha 
+			Tssatssi "!Nanni" "!Kweiten-ta-//ken" /Uma Xa-a-tin /Ing/ke "/Kham-Ka-!k'e" //Ng!ke "!O !kung" Buga-Kxoe Dzu'oasi
+			G//aakhwe "G!inkwe" Gi/kxigwi Hei-//om K''am-Ka-Kwe Kung Kxoe Lxloukxle N//hai Ng//-/e Ohongo Xko Xo-Kxoe 
+			"!Nanseb" "!Gae-nub" "!Khorebeb-//Naixab" "!Nanib"
+		}
+		female_names = {
+			/Auni /Nanani //Xegwe "!Kabee" Amankgqwigqwi Danisi Dxana Gxanna Kora Mohisa N/oo Zu/asi
+		}
+	}
+	san = {
+		male_names = {
+			"/Han kass'o" Wilta "!Kau-/kutten" Kebbi-an "!Kwabba-an" "/Hari Kafsho" Mansse "!Kau/noan" /Abbe-ttu //Khwai-/ha 
+			Tssatssi "!Nanni" "!Kweiten-ta-//ken" /Uma Xa-a-tin /Ing/ke "/Kham-Ka-!k'e" //Ng!ke "!O !kung" Buga-Kxoe Dzu'oasi
+			G//aakhwe "G!inkwe" Gi/kxigwi Hei-//om K''am-Ka-Kwe Kung Kxoe Lxloukxle N//hai Ng//-/e Ohongo Xko Xo-Kxoe 
+			"!Nanseb" "!Gae-nub" "!Khorebeb-//Naixab" "!Nanib"
+		}
+		female_names = {
+			/Auni /Nanani //Xegwe "!Kabee" Amankgqwigqwi Danisi Dxana Gxanna Kora Mohisa N/oo Zu/asi
+		}
+	}
+	male_names = { Sekgoma Munjuku Tjamuaha Maharero  }
+	female_names = { Behati }
+	dynasty_names = {
+		Herero Namaqua Khai//khaun "!Gomen" "!Kharakhoen" //Habowen "!Aman" //Ogain //Khau/goan "Kharo!oan" /Khowesin
+	}
+}
+
+southern_african = {
+	graphical_culture = africangfx
+
+	tonga = {
+	}
+	chewa = {
+		dynasty_names = { 
+			Mutharika Chakwera Banda Muluzi Chibambo
+		}
+	}	
+}
+
+african = {
+	graphical_culture = africangfx
+	
+	eastern_bantu = {
+		dynasty_names = { 
+			Ndahindurwa Rudahigwa Musinga Rutarindwa Rwabugiri
+		}
+	}
+}
+
+berber_group = {
+	graphical_culture = africangfx
+
+	tuareg = {
+		primary = AIR
+		dynasty_names = {
+			Magsharen Stanbulewa "Ait Loaien" "Dag Rali" Iregenaten
+			"Kel Rela" "Kel Silet" Taituq "Tgéhé Millet" "Kel Afella"
+			"Kel Taghlit" "Kel Essouk" "Kel Ouzzeyn" Ifergoumessen Iriyaken
+			"Taghat Mellet" Idnan
+		}
+		male_names = {
+			Agg-Abba al-Amin al-Wali al-Mu'min Uthman Agg-A'isha Humad Guma al-Adil ad-Dani al-Baqiri Waffa Ibrahim 
+			al-Qadir ar-Raffa ad-Dusuki Mikitan ar-Rahman Umaru ag-Ibrahim Salah al-Khir Yunus Ag Mama al-Hajj 
+			Ahmad Aytarel Attici Musa Akhamuk Meslar Bayy
+		}
+		female_names = {
+			"Tin Hinan" Takama Tanteflest Tarayna Aygul Aygün AylIn Aynur Aysel Fatma FIdan Firuza Gulnar Gulnara 
+			Günay Günel Konul Leyla Parvana Parvin Sevda SevInc SevInj Tarana Vüsala Zemfira Zeynab
+		}
+	}	
+	berber = {
+		primary = TLC
+		dynasty_names = {
+			"al-Ilighi" "al-Tadsi" "Zayyanid" Maatka Wattasid Atfayyish "Beni Isguen" "al-Afdali" "Mzabi"
+			Tabghurin "al-Malshuti"
+		}
+		male_names = {
+			"Abu Abdallah" "Abu Abbas Ahmad" "Abu Tashufin" "Abu Hammu" "Abu Muh" "Abu Zayyan" "Abu Malek" "Abul Hadjdjadj"
+			"Abu Thabid" "Abu Said" "'Abd al-Karim" Barakat Basir Dawud Faris Haidar Hashim Jabbar 
+			Junayd Najib Qasim Rahim Rashîd Safi Sakhr Wahid Zahir Jamal Mustafa Muzaffaraddin N'Guna Nasr Nazar Niptasan 
+			Nizamaddin Ptolemee Ptolemy Qutaiba Rashid Sa'id Salah Salla Salomon Solomon Sammer Sayyid Seghada Sekla Shamsaddin 
+			Sifaks Sifal Sinbad Sisso Stembanos Suggut Sultan T'ar'iq Tabat Tacfin Taffounnout Tahir Takfarinas Tanan Tariq 
+			Tegama Thabitah Tifan Theophanus Tiljad Ugdada Ugwistan Umar Uqess'un Uregh Urtilian Urz'ig Uzmir Uzza Wahab 
+			Watt'as Xamida Yabdas Yaghmurasen Yahya Yattuy Yeften Yeh'lem Yiliyen Yuba Yugerten Yugurthen Youkhanna John 
+			Yunes Yusuf Joseph Yuva Z'effun Zafir Zalelsan Zayar Zer'wal Zigza Ziri Zubeyr
+		}
+		female_names = {
+			Randa Tabassum 	Dema Dimah Dinara Dua Durra Durriyya Edza Eleonorka Eleanor Faghissa Fahriya Fariza Fedada 
+			Tazenkwedt Tazirit Tazrurt Tella Temzi Tfit Tigmi Tikinas Tilelli Timmi Tinhinan Tintadefi 
+			Tintifawin Tinzert Tisent Tislit Titbirt Titrit Tizemt Tiziri Triya Tudert Tuh'r'ict Tureght 
+		}
+	}
+	shilha = {
+		primary = REG
+		dynasty_names = {
+			"al-Ilighi" "al-Tadsi" "Zayyanid" Maatka Wattasid Atfayyish "Beni Isguen" "al-Afdali" "Mzabi"
+			Tabghurin "al-Malshuti"
+		}
+		male_names = {
+			"Abu Abdallah" "Abu Abbas Ahmad" "Abu Tashufin" "Abu Hammu" "Abu Muh" "Abu Zayyan" "Abu Malek" "Abul Hadjdjadj"
+			"Abu Thabid" "Abu Said" "'Abd al-Karim" Barakat Basir Dawud Faris Haidar Hashim Jabbar 
+			Junayd Najib Qasim Rahim Rashîd Safi Sakhr Wahid Zahir Jamal Mustafa Muzaffaraddin N'Guna Nasr Nazar Niptasan 
+			Nizamaddin Ptolemee Ptolemy Qutaiba Rashid Sa'id Salah Salla Salomon Solomon Sammer Sayyid Seghada Sekla Shamsaddin 
+			Sifaks Sifal Sinbad Sisso Stembanos Suggut Sultan T'ar'iq Tabat Tacfin Taffounnout Tahir Takfarinas Tanan Tariq 
+			Tegama Thabitah Tifan Theophanus Tiljad Ugdada Ugwistan Umar Uqess'un Uregh Urtilian Urz'ig Uzmir Uzza Wahab 
+			Watt'as Xamida Yabdas Yaghmurasen Yahya Yattuy Yeften Yeh'lem Yiliyen Yuba Yugerten Yugurthen Youkhanna John 
+			Yunes Yusuf Joseph Yuva Z'effun Zafir Zalelsan Zayar Zer'wal Zigza Ziri Zubeyr
+		}
+		female_names = {
+			Randa Tabassum 	Dema Dimah Dinara Dua Durra Durriyya Edza Eleonorka Eleanor Faghissa Fahriya Fariza Fedada 
+			Tazenkwedt Tazirit Tazrurt Tella Temzi Tfit Tigmi Tikinas Tilelli Timmi Tinhinan Tintadefi 
+			Tintifawin Tinzert Tisent Tislit Titbirt Titrit Tizemt Tiziri Triya Tudert Tuh'r'ict Tureght 
+		}
+	}
+	riffian = {
+		primary = RIF
+		dynasty_names = {
+			"al-Ilighi" "al-Tadsi" "Zayyanid" Maatka Wattasid Atfayyish "Beni Isguen" "al-Afdali" "Mzabi"
+			Tabghurin "al-Malshuti"
+		}
+		male_names = {
+			"Abu Abdallah" "Abu Abbas Ahmad" "Abu Tashufin" "Abu Hammu" "Abu Muh" "Abu Zayyan" "Abu Malek" "Abul Hadjdjadj"
+			"Abu Thabid" "Abu Said" "'Abd al-Karim" Barakat Basir Dawud Faris Haidar Hashim Jabbar 
+			Junayd Najib Qasim Rahim Rashîd Safi Sakhr Wahid Zahir Jamal Mustafa Muzaffaraddin N'Guna Nasr Nazar Niptasan 
+			Nizamaddin Ptolemee Ptolemy Qutaiba Rashid Sa'id Salah Salla Salomon Solomon Sammer Sayyid Seghada Sekla Shamsaddin 
+			Sifaks Sifal Sinbad Sisso Stembanos Suggut Sultan T'ar'iq Tabat Tacfin Taffounnout Tahir Takfarinas Tanan Tariq 
+			Tegama Thabitah Tifan Theophanus Tiljad Ugdada Ugwistan Umar Uqess'un Uregh Urtilian Urz'ig Uzmir Uzza Wahab 
+			Watt'as Xamida Yabdas Yaghmurasen Yahya Yattuy Yeften Yeh'lem Yiliyen Yuba Yugerten Yugurthen Youkhanna John 
+			Yunes Yusuf Joseph Yuva Z'effun Zafir Zalelsan Zayar Zer'wal Zigza Ziri Zubeyr
+		}
+		female_names = {
+			Randa Tabassum 	Dema Dimah Dinara Dua Durra Durriyya Edza Eleonorka Eleanor Faghissa Fahriya Fariza Fedada 
+			Tazenkwedt Tazirit Tazrurt Tella Temzi Tfit Tigmi Tikinas Tilelli Timmi Tinhinan Tintadefi 
+			Tintifawin Tinzert Tisent Tislit Titbirt Titrit Tizemt Tiziri Triya Tudert Tuh'r'ict Tureght 
+		}
+	}
+	guanche = {
+		dynasty_names = {
+			"al-Ilighi" "al-Tadsi" "Zayyanid" Maatka Wattasid Atfayyish "Beni Isguen" "al-Afdali" "Mzabi"
+			Tabghurin "al-Malshuti"
+		}
+		male_names = {
+			"Abu Abdallah" "Abu Abbas Ahmad" "Abu Tashufin" "Abu Hammu" "Abu Muh" "Abu Zayyan" "Abu Malek" "Abul Hadjdjadj"
+			"Abu Thabid" "Abu Said" "'Abd al-Karim" Barakat Basir Dawud Faris Haidar Hashim Jabbar 
+			Junayd Najib Qasim Rahim Rashîd Safi Sakhr Wahid Zahir Jamal Mustafa Muzaffaraddin N'Guna Nasr Nazar Niptasan 
+			Nizamaddin Ptolemee Ptolemy Qutaiba Rashid Sa'id Salah Salla Salomon Solomon Sammer Sayyid Seghada Sekla Shamsaddin 
+			Sifaks Sifal Sinbad Sisso Stembanos Suggut Sultan T'ar'iq Tabat Tacfin Taffounnout Tahir Takfarinas Tanan Tariq 
+			Tegama Thabitah Tifan Theophanus Tiljad Ugdada Ugwistan Umar Uqess'un Uregh Urtilian Urz'ig Uzmir Uzza Wahab 
+			Watt'as Xamida Yabdas Yaghmurasen Yahya Yattuy Yeften Yeh'lem Yiliyen Yuba Yugerten Yugurthen Youkhanna John 
+			Yunes Yusuf Joseph Yuva Z'effun Zafir Zalelsan Zayar Zer'wal Zigza Ziri Zubeyr
+		}
+		female_names = {
+			Randa Tabassum 	Dema Dimah Dinara Dua Durra Durriyya Edza Eleonorka Eleanor Faghissa Fahriya Fariza Fedada 
+			Tazenkwedt Tazirit Tazrurt Tella Temzi Tfit Tigmi Tikinas Tilelli Timmi Tinhinan Tintadefi 
+			Tintifawin Tinzert Tisent Tislit Titbirt Titrit Tizemt Tiziri Triya Tudert Tuh'r'ict Tureght 
+		}
+	}
+	#new ByT culture
+	kabylian = {
+		primary = KBA
+		dynasty_names = {
+			"al-Ilighi" "al-Tadsi" "Zayyanid" Maatka Wattasid Atfayyish "Beni Isguen" "al-Afdali" "Mzabi"
+			Tabghurin "al-Malshuti"
+		}
+		male_names = {
+			"Abu Abdallah" "Abu Abbas Ahmad" "Abu Tashufin" "Abu Hammu" "Abu Muh" "Abu Zayyan" "Abu Malek" "Abul Hadjdjadj"
+			"Abu Thabid" "Abu Said" "'Abd al-Karim" Barakat Basir Dawud Faris Haidar Hashim Jabbar 
+			Junayd Najib Qasim Rahim Rashîd Safi Sakhr Wahid Zahir Jamal Mustafa Muzaffaraddin N'Guna Nasr Nazar Niptasan 
+			Nizamaddin Ptolemee Ptolemy Qutaiba Rashid Sa'id Salah Salla Salomon Solomon Sammer Sayyid Seghada Sekla Shamsaddin 
+			Sifaks Sifal Sinbad Sisso Stembanos Suggut Sultan T'ar'iq Tabat Tacfin Taffounnout Tahir Takfarinas Tanan Tariq 
+			Tegama Thabitah Tifan Theophanus Tiljad Ugdada Ugwistan Umar Uqess'un Uregh Urtilian Urz'ig Uzmir Uzza Wahab 
+			Watt'as Xamida Yabdas Yaghmurasen Yahya Yattuy Yeften Yeh'lem Yiliyen Yuba Yugerten Yugurthen Youkhanna John 
+			Yunes Yusuf Joseph Yuva Z'effun Zafir Zalelsan Zayar Zer'wal Zigza Ziri Zubeyr
+		}
+		female_names = {
+			Randa Tabassum 	Dema Dimah Dinara Dua Durra Durriyya Edza Eleonorka Eleanor Faghissa Fahriya Fariza Fedada 
+			Tazenkwedt Tazirit Tazrurt Tella Temzi Tfit Tigmi Tikinas Tilelli Timmi Tinhinan Tintadefi 
+			Tintifawin Tinzert Tisent Tislit Titbirt Titrit Tizemt Tiziri Triya Tudert Tuh'r'ict Tureght 
+		}
+	}
+	libyan_berber_culture = {
+		dynasty_names = {
+			"al-Ilighi" "al-Tadsi" "Zayyanid" Maatka Wattasid Atfayyish "Beni Isguen" "al-Afdali" "Mzabi"
+			Tabghurin "al-Malshuti"
+		}
+		male_names = {
+			"Abu Abdallah" "Abu Abbas Ahmad" "Abu Tashufin" "Abu Hammu" "Abu Muh" "Abu Zayyan" "Abu Malek" "Abul Hadjdjadj"
+			"Abu Thabid" "Abu Said" "'Abd al-Karim" Barakat Basir Dawud Faris Haidar Hashim Jabbar 
+			Junayd Najib Qasim Rahim Rashîd Safi Sakhr Wahid Zahir Jamal Mustafa Muzaffaraddin N'Guna Nasr Nazar Niptasan 
+			Nizamaddin Ptolemee Ptolemy Qutaiba Rashid Sa'id Salah Salla Salomon Solomon Sammer Sayyid Seghada Sekla Shamsaddin 
+			Sifaks Sifal Sinbad Sisso Stembanos Suggut Sultan T'ar'iq Tabat Tacfin Taffounnout Tahir Takfarinas Tanan Tariq 
+			Tegama Thabitah Tifan Theophanus Tiljad Ugdada Ugwistan Umar Uqess'un Uregh Urtilian Urz'ig Uzmir Uzza Wahab 
+			Watt'as Xamida Yabdas Yaghmurasen Yahya Yattuy Yeften Yeh'lem Yiliyen Yuba Yugerten Yugurthen Youkhanna John 
+			Yunes Yusuf Joseph Yuva Z'effun Zafir Zalelsan Zayar Zer'wal Zigza Ziri Zubeyr
+		}
+		female_names = {
+			Randa Tabassum 	Dema Dimah Dinara Dua Durra Durriyya Edza Eleonorka Eleanor Faghissa Fahriya Fariza Fedada 
+			Tazenkwedt Tazirit Tazrurt Tella Temzi Tfit Tigmi Tikinas Tilelli Timmi Tinhinan Tintadefi 
+			Tintifawin Tinzert Tisent Tislit Titbirt Titrit Tizemt Tiziri Triya Tudert Tuh'r'ict Tureght 
+		}
+	}
+}
+#Entirely new culture groups ByT
+egyptian_group = {
+	graphical_culture = muslimgfx
+
+	coptic_culture = {
+		primary = KEM
+		dynasty_names = {
+			Thinis Memphis Abydos Herakleopolis Thebes Itjtawy Avaris Bubastis Sais
+		}
+		male_names = {
+			Seka Khayu Tiu Thesh Neheb Wazner Mekh "Iry-Hor" Sekhen Serqer Narmer "Hor-Aha" Djer Djet Den Semerkhet "Qa'a" Sneferka Raneb Nynetjer Senedj Neferkara Hudjefa 
+			Djoser Sekhemkhet Sanakht Khaba Huni Sneferu Khufu Khafre Djdefre Menkaure Thamphtis Userkaf Sahure Neferefre Shepseskare Nyuserre Unas Teti "Dejkadre Shemai" 
+			Neferkare Merenhor Nikare Intef "Sankhkare Mentuhotep" Menkare Segerseni Senusret Nerikare Sonbef Sebkay Sobekhotep Dedumose Sheeshi Nehesy Sheneh Semenre Rahotep 
+			"Nebpehtire Ahmose" Amenhotep Thutmose  "Awybre Hor" Akhenaten Tutankhamun Ramesses Herihor Piankh Masaharta Menkheperre Smendes Pinedjem
+		}
+		female_names = {
+			"Sobekkare Sobekneferu" Hatshepsut Tentamun Nitocris Neit Cleopatra Neferneferuaten Nefertiti 
+		}
+	}
+}
+saharan_group = {
+	graphical_culture = africangfx
+
+	fur_culture = {
+		primary = DAR			#Dafur
+		dynasty_names = {
+			Senar
+			# CKII
+			"Bigawi" "Qamhat" "Hadendiwa" "Hadareb" "Beni-Amer" "Hadendoa"
+			"Hedareb" "Jarin" "Bisharin"
+		}
+		male_names = {
+			"'Amâra" "'Abd al-Qâdir" "Nâ'l" "Dakîn al-'Adil" "Dûra" "Taiyîb" "Unsa" "Adlân" "Bâdî" "Rubât" "Nûl" 
+			"Nâsir" "Ranfi" "Eltecit" "Joel" "Koudlaniel" "Isawi" "Hashim" "Maqdum" "Awkal" "Hassan" "Agban" 
+			"Abu Likayik" "Rajab" "Ahmad" "Rifaya" "Ibrahim" "Idris" "Tindhim" "'Abd al-Rahman" "Sulayman" "Yusuf" 
+			"Ya'qub" "Ismâ'îl" "Musa" "Muhammad" "Ishaq" "Halim" "Mustafa" "Abu Bakr" 
+			Aarôn Aaron Aberikos Abraam Abraham Añgelos Angelus Andreas Andrew Athanasios Balô 
+			Bartholomaios Bartholomew Birêl Chael Christophoros Dauid David Dimetheos Timothy
+			Dioskoros Diônisios Dionysus Eliezer Eionkouda Emmanouel Emmanuel Enôch Enoch Ephannê Epimachos 
+			Epiphanios Gabriel Gabrielkouda Gabrielophorou Gennatios Gennadius
+			Geôrgios George Hêlias Elias Hoase Hoassi Hoasse Jesse Iacob Jacob Ieremias 
+			Jeremiah Iêsous Jesus Iêsousinkouda Iôannou Jonah Iôannês John Iordanes Jordanes Ioseph Joseph 
+			Kalinikos Kallinikios Kollouthos
+			Krisanthos Chrystanthos Kuriakos Kyriakos Kurillos Cyril Lazaros Lazarus Leon Leo Leontios 
+			Leontius Makarios Makarius Mariana Mariankouda Marianos Marianus Marios Marius Markos Marcus 
+			Marturophoros
+			Mašanñal Maththias Matthew Mêlênkouda Mena Menankouda Merkourios Mercurius Michaêl Michael 
+			Michaêlkouda Mouses Moses Orna Panigiros Papasinen Papasinkouda Patrikios Patrick
+			Paulos Paul Petros Peter Petrou Philotheos Philemon Prochoros Raphael Raphaelkouda Samson 
+			Senouthios Sentiko Sergios Sergius Simeoni Simon Soizuros Solomôn Solomon Sotinkouda Stephanos 
+			Stephen
+			Stephanou Thadeosi Thaddeus Theodôros Theodore Theodosios Theodosius Theodote Theodat Thoma 
+			Thomas Tophêna Tirsakouni Zacharias Zachary Zosima Zosimus
+		}
+		female_names = {
+			Agathe Alethia Anthelia Athanasia Chaelsoñoja Chrissa Christina Douriko Egaloskoura Eikkir 
+			Eionmnne Eionñoka Eitou Elisabeth Elizabeth Eirena Eirene Eirota Eirotatouññlki
+			Entaeiri Eôneille Ephannê Epimachosi Eudosia Eudoxia Eulabia Eusebia Eustephanou Fatima 
+			Genseoua Hellene Helen Hemene Iannia Joan Iêsousyko Ioustina Justina Kel Kerike Kersiami Kettoudi
+			Keudonia Kurake Kyriake Maraña Mariam Maria Mariane Marianou Michaêliko Michaela 
+			Ñašša Ñeššadena Ñejin Ñilesa Ñojjl Ñoltou Ñonne Ñonnen Ñouddl Ñssitkitol Ouarenô Patrikia 
+			Patricia Pelagia Gulzar Maram
+			Penatti Pesanthia Petronia Prisisilla Priscilla Rahimah Sophia Sousanna Staurophania Theobronia 
+			Theodorake Theodosia Theognosta Theophania Theophilia Theipisthe Theozia Zerebekka
+		}
+	}
+}

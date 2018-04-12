@@ -1,6 +1,6 @@
 government = native_council
 primary_culture = kalaallisut
-religion = angakkunngurniq
+religion = totemism
 technology_group = north_american
 capital = 1105 # Abitbi
 government_rank = 1
