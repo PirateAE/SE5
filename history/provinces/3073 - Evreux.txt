@@ -2,8 +2,8 @@
 #Region - France
 #Area - Normandy
 
-owner = FRA
-controller = FRA
+owner = NRM
+controller = NRM
 capital = "Évreux"
 is_city = yes
 culture = normand
@@ -13,7 +13,6 @@ base_tax = 4
 base_production = 3
 trade_goods = paper
 base_manpower = 3
-add_core = FRA
 add_core = NRM
 
 discovered_by = western
@@ -21,8 +20,12 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 
-1419.1.19 = { controller = ENG } # Incorporated into England by Henry V
-1420.5.12 = { owner = ENG add_core = ENG } # Treaty of Troyes
+1444.11.12 = {
+	owner = ENG
+	controller = ENG
+	add_core = ENG
+	add_core = FRA
+}
 1449.1.1 = { owner = FRA controller = FRA } # Retaken by France
 1465.8.15 = { owner = NRM controller = NRM } # Treaty of Conflans
 1466.3.6 = { owner = FRA controller = FRA } # Louis XI reincorporates Normandy into the French crown

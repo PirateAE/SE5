@@ -25,6 +25,7 @@ VDN = "countries/Verdun.txt"
 MTZ = "countries/Metz.txt"
 LOR = "countries/Lorraine.txt"
 AVI = "countries/Avignon.txt"
+JER = "countries/JerseyandGuernsey.txt"
 
 #Formable
 

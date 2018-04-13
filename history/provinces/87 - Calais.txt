@@ -2,8 +2,8 @@
 #Region - Low Countries
 #Area - Flanders
 
-owner = ENG
-controller = ENG 
+owner = PIC
+controller = PIC 
 capital = "Calais"
 culture = flemish
 religion = catholic
@@ -12,7 +12,7 @@ base_tax = 5
 base_production = 2
 trade_goods = fish
 base_manpower = 2
-add_core = ENG
+add_core = PIC
 
 discovered_by = western
 discovered_by = muslim
@@ -22,6 +22,12 @@ discovered_by = eastern
 
 fort_15th = yes
 is_city = yes
+
+1444.11.12 = {
+	owner = ENG
+	controller = ENG
+	add_core = ENG
+}
 
 1459.1.1 = { unrest = 7 } # War of the Roses in England
 1459.11.1 = { revolt = { type = pretender_rebels size = 2 } controller = REB } # Yorkist control over Calais

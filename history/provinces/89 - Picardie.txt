@@ -23,12 +23,19 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 
-1435.1.1 = {
+1444.11.11 = {
+	owner = PIC
+	controller = PIC
+	add_core = PIC
+	remove_core = FRA
+} 
+
+1444.11.12 = {
 	owner = BUR
 	controller = BUR
 	add_core = BUR
-	remove_core = FRA
-} # Treaty of Arras
+	add_core = FRA
+}
 1463.1.1 = {
 	owner = FRA
 	controller = FRA
