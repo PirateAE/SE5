@@ -6,8 +6,8 @@ latent_trade_goods = {
 	coal
 }
 
-owner = ENG			#When HR first added the DUR tag, there were no estates, no autonomy, and the tag was a must. Now, however, with the new mechanics to represent local autonomy and ecclesiastical holdings, 
-controller = ENG			#combined with the many new provinces and tags being added as the overhaul expands out of Europe, I'm cutting this minor tag with 0 chance of survival for a mixture of performance and aesthetic reasons
+owner = DUR			
+controller = DUR			
 culture = northumbrian
 religion = catholic
 hre = no
@@ -18,16 +18,19 @@ base_manpower = 1
 capital = "Durham"
 #fort_15th = yes
 is_city = yes
-add_core = ENG
 add_core = DUR
 add_core = NOL
-estate = estate_church
-add_local_autonomy = 90
 
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
+
+1444.11.12 = {
+	owner = ENG
+	controller = ENG
+	add_core = ENG
+}
 
 1444.11.13 = { #BeyondTypus batch edit shortcut more vassal start date begin
 	owner = DUR
