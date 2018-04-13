@@ -2,8 +2,8 @@
 #Region - Britain
 #Area - Wessex
 
-owner = ENG
-controller = ENG
+owner = LOD
+controller = LOD
 culture = english
 religion = catholic
 hre = no
@@ -14,13 +14,19 @@ base_manpower = 2
 capital = "Canterbury"
 estate = estate_church
 is_city = yes
-add_core = ENG
+add_core = LOD
 seat_in_parliament = yes
 
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
+
+1444.11.12 = {
+	owner = ENG
+	controller = ENG
+	add_core = ENG
+}
 
 1450.5.1 = { revolt = { type = anti_tax_rebels size = 2 } controller = REB } # Jack Cade's rebellion
 1450.7.12 = { revolt = {} controller = ENG }
