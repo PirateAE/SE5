@@ -2,8 +2,8 @@
 #Region - Scandinavia
 #Area - Northern Isles
 
-owner = NOR
-controller = NOR
+owner = SHT
+controller = SHT
 culture = norwegian
 religion = catholic
 hre = no
@@ -13,13 +13,18 @@ trade_goods = fish
 base_manpower = 0.5
 capital = "Lerwick"
 is_city = yes # Estimated
-add_core = NOR
+add_core = SHT
 
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 
+1444.11.12 = {
+	owner = NOR
+	controller = NOR
+	add_core = NOR
+}
 1472.2.20 = {
 	owner = SCO
 	culture = scottish

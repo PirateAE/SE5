@@ -15,7 +15,7 @@ EST = "countries/Estonia.txt"
 LVA = "countries/Livonia.txt"
 SMI = "countries/Sami.txt"
 KRL = "countries/Karelia.txt"
-ICE = "countries/Iceland.txt"
+#ICE = "countries/Iceland.txt" #england file
 
 #Balkans
 ACH	= "countries/PrincipalityOfAchaia.txt"
@@ -44,30 +44,30 @@ HUN	= "countries/Hungary.txt"
 SLO = "countries/Slovakia.txt"
 TUR	= "countries/Ottomans.txt"
 
-#British Isles 
-CNN = "countries/Connacht.txt"
-CRN	= "countries/Cornwall.txt"
-ENG	= "countries/England.txt"
-LEI = "countries/Leinster.txt"
-IRE	= "countries/Ireland.txt"
-MNS = "countries/IRE_Munster.txt"
-SCO	= "countries/Scotland.txt"
-TYR = "countries/Tyrone.txt"
-WLS	= "countries/Wales.txt"
-NOL = "countries/Northumberland.txt"
-GBR	= "countries/GreatBritain.txt"
-MTH = "countries/Meath.txt"
-ULS = "countries/Ulster.txt"
-DMS = "countries/Desmond.txt" #Earldom of Desmond
-SLN = "countries/Sligo.txt"
-KID = "countries/Kildare.txt"
-HSC = "countries/Highlands.txt"
+#British Isles #If its #ed out its in another file, probably england
+#CNN = "countries/Connacht.txt"
+#CRN	= "countries/Cornwall.txt"
+#ENG	= "countries/England.txt"
+#LEI = "countries/Leinster.txt"
+#IRE	= "countries/Ireland.txt"
+#MNS = "countries/IRE_Munster.txt"
+#SCO	= "countries/Scotland.txt"
+#TYR = "countries/Tyrone.txt"
+#WLS	= "countries/Wales.txt"
+#NOL = "countries/Northumberland.txt"
+#GBR	= "countries/GreatBritain.txt"
+#MTH = "countries/Meath.txt"
+#ULS = "countries/Ulster.txt"
+#DMS = "countries/Desmond.txt" #Earldom of Desmond
+#SLN = "countries/Sligo.txt"
+#KID = "countries/Kildare.txt"
+#HSC = "countries/Highlands.txt"
 ORD = "countries/Ormond.txt"
 TRY = "countries/Tyrconnell.txt"
 FLY = "countries/Faly.txt"
-MCM = "countries/MacCarthy.txt" #Kingdom of Desmond
-KOI = "countries/Mann.txt"
-LOI = "countries/TheIsles.txt"
+#MCM = "countries/MacCarthy.txt" #Kingdom of Desmond
+#KOI = "countries/Mann.txt"
+#LOI = "countries/TheIsles.txt"
 
 #Colonies
 BRZ	= "countries/Brazil.txt"

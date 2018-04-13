@@ -2,8 +2,8 @@
 #Region - Scandinavia
 #Area - Northern Isles
 
-owner = NOR
-controller = NOR 
+owner = FAR
+controller = FAR 
 culture = norwegian
 religion = catholic
 hre = no
@@ -13,10 +13,15 @@ base_manpower = 0.5
 trade_goods = fish
 capital = "Torshavn"
 is_city = yes
-add_core = NOR
+add_core = FAR
 
 discovered_by = western
 
+1444.11.12 = {
+	owner = NOR
+	controller = NOR
+	add_core = NOR
+}
 1536.1.1 = {
 	religion = protestant
 	owner = DAN
