@@ -2,8 +2,8 @@
 #Region - Britain
 #Area - East Anglia
 
-owner = ENG
-controller = ENG
+owner = YRK
+controller = YRK
 culture = english
 religion = catholic
 hre = no
@@ -13,13 +13,19 @@ trade_goods = fish
 base_manpower = 3
 capital = "Norwich"
 is_city = yes
-add_core = ENG
+add_core = YRK
 seat_in_parliament = yes
 
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
+
+1444.11.12 = {
+	owner = ENG
+	controller = ENG
+	add_core = ENG
+}
 
 1453.1.1 = { unrest = 5 } # Start of the War of the Roses
 1461.3.1 = { unrest = 0 revolt = { type = pretender_rebels size = 1 } controller = REB } # Coventry's Switch to the Yorkists
