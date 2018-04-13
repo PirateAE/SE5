@@ -3,7 +3,7 @@
 #Area - Highlands
 
 owner = HSC
-controller = KSC
+controller = HSC
 culture = highland_scottish
 religion = catholic
 hre = no
