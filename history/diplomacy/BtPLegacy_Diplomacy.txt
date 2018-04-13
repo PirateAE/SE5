@@ -37,7 +37,7 @@ union = {
 union = {
 	first = ENG
 	second = WLS
-	start_date = 1444.1.1
+	start_date = 1444.11.12 #shattered
 	end_date = 1444.11.16   #BeyondTypus batch edit shortcut no vassal start date begin
 }
 
@@ -51,7 +51,7 @@ union = {
 march = {
 	first = ENG
 	second = WMC
-	start_date = 1444.1.1
+	start_date = 1444.11.12 #shattered
 	end_date = 1444.11.16   #BeyondTypus batch edit shortcut no vassal start date begin
 }
 
@@ -65,7 +65,7 @@ march = {
 march = {
 	first = ENG
 	second = JER
-	start_date = 1444.1.1
+	start_date = 1444.11.12 #shattered
 	end_date = 1444.11.16   #BeyondTypus batch edit shortcut no vassal start date begin
 }
 
@@ -88,7 +88,7 @@ march = {
 vassal = {
 	first = TRE
 	second = FEO
-	start_date = 1444.1.1
+	start_date = 1444.11.12 #shattered
 	end_date = 1444.11.16   #BeyondTypus batch edit shortcut no vassal start date begin
 }	#Evidence I found says feo was a vassal state of the empire of Trebizond, and Trenizond's last remaining holding before the Ottomans completely took over.
 
@@ -102,7 +102,7 @@ vassal = {
 vassal = {
 	first = KAR
 	second = ALI
-	start_date = 1444.1.1
+	start_date = 1444.11.12 #shattered
 	end_date = 1444.11.16   #BeyondTypus batch edit shortcut no vassal start date begin
 }	#From start date to date Karaman takes over fully, followed by Ottomans
 
@@ -116,14 +116,14 @@ vassal = {
 royal_marriage = {
 	first = FRA
 	second = BRI
-	start_date = 1440.1.1
+	start_date = 1444.11.12 #shattered
 	end_date = 1500.1.1
 }	#To encourage France getting a PU over Brittany. Bug report says France rarely if ever expands this way. Between (historical) older, infertile heir, and France having the first RM, AI France has a chance to inherit as junior. Not too bad historically, great deal of intermarriage, and the dukes of Brittany were a French dynasty anyhow
 
 royal_marriage = {
 	first = SCO
 	second = BRI
-	start_date = 1442.10.30
+	start_date = 1444.11.12 #shattered
 	end_date = 1450.7.19
 }
 
@@ -132,7 +132,7 @@ royal_marriage = {
 union = {
 	first = ARA
 	second = SAR
-	start_date = 1421.1.1
+	start_date = 1444.11.12 #shattered
 	end_date = 1444.11.16   #BeyondTypus batch edit shortcut no vassal start date begin
 }
 
@@ -160,7 +160,7 @@ union = {
 union = {
 	first = ARA
 	second = SIC
-	start_date = 1409.7.26
+	start_date = 1444.11.12 #shattered
 	end_date = 1444.11.16   #BeyondTypus batch edit shortcut no vassal start date begin
 }
 
@@ -197,7 +197,7 @@ vassal = {
 vassal = {
 	first = MAM
 	second = HAW
-	start_date = 1444.1.1
+	start_date = 1444.11.12 #shattered
 	end_date = 1444.11.16   #BeyondTypus batch edit shortcut no vassal start date begin
 }
 
@@ -212,7 +212,7 @@ vassal = {
 #vassal = {
 #	first = MAM
 #	second = HSN
-#	start_date = 1444.1.1
+#	start_date = 1444.11.12 #shattered
 #	end_date = 1461.12.31
 #}	#From start date until rise of Aq Qoyunlu
 
@@ -289,7 +289,7 @@ vassal = {
 vassal = {
 	first = QAR
 	second = BHT
-	start_date = 1435.1.1
+	start_date = 1444.11.12 #shattered
 	end_date = 1444.11.16   #BeyondTypus batch edit shortcut no vassal start date begin
 }
 
@@ -303,7 +303,7 @@ vassal = {
 vassal = {
 	first = MOR
 	second = DBD
-	start_date = 1444.1.1
+	start_date = 1444.11.12 #shattered
 	end_date = 1444.11.16   #BeyondTypus batch edit shortcut no vassal start date begin
 }	#Semi-independent Principality of Debdou
 
@@ -317,7 +317,7 @@ vassal = {
 vassal = {
 	first = TVE
 	second = ZBT
-	start_date = 1444.1.1
+	start_date = 1444.11.12 #shattered
 	end_date = 1444.11.16   #BeyondTypus batch edit shortcut no vassal start date begin
 }	#Tver's autonomous vassal principality
 
@@ -331,7 +331,7 @@ vassal = {
 vassal = {
 	first = RYA
 	second = PRS
-	start_date = 1444.1.1
+	start_date = 1444.11.12 #shattered
 	end_date = 1444.11.16   #BeyondTypus batch edit shortcut no vassal start date begin
 }	#Ryazan's autonomous vassal principality and bitter rival for most of its existance. Weakened greatly by this point.
 
@@ -345,7 +345,7 @@ vassal = {
 vassal = {
 	first = MOS
 	second = SPK
-	start_date = 1444.1.1
+	start_date = 1444.11.12 #shattered
 	end_date = 1444.11.16   #BeyondTypus batch edit shortcut no vassal start date begin
 }	#Moscow's vassal, Serpukhov breaks vassalage when Shemyaka takes the throne, backing the exiled Vasily II
 
@@ -394,7 +394,7 @@ vassal = {
 alliance = {
 	first = GLC
 	second = VYA
-	start_date = 1444.1.1
+	start_date = 1444.11.12 #shattered
 	end_date = 1446.2.13	#Shemyaka takes Moscow
 }
 
@@ -415,7 +415,7 @@ alliance = {
 alliance = {
 	first = GLC
 	second = MOZ
-	start_date = 1444.1.1
+	start_date = 1444.11.12 #shattered
 	end_date = 1446.2.13	#Shemyaka takes Moscow
 }
 
@@ -436,7 +436,7 @@ alliance = {
 vassal = {
 	first = LIT
 	second = VTN
-	start_date = 1444.1.1
+	start_date = 1444.11.12 #shattered
 	end_date = 1444.11.16   #BeyondTypus batch edit shortcut no vassal start date begin
 }
 
@@ -464,7 +464,7 @@ vassal = {
 vassal = {
 	first = LIT
 	second = OKA
-	start_date = 1444.1.1
+	start_date = 1444.11.12 #shattered
 	end_date = 1444.11.16   #BeyondTypus batch edit shortcut no vassal start date begin
 }
 
@@ -492,7 +492,7 @@ vassal = {
 vassal = {
 	first = LIT
 	second = BLV
-	start_date = 1444.1.1
+	start_date = 1444.11.12 #shattered
 	end_date = 1444.11.16   #BeyondTypus batch edit shortcut no vassal start date begin
 }
 
@@ -520,7 +520,7 @@ vassal = {
 vassal = {
 	first = LIT
 	second = MSL
-	start_date = 1444.1.1
+	start_date = 1444.11.12 #shattered
 	end_date = 1444.11.16   #BeyondTypus batch edit shortcut no vassal start date begin
 }
 
@@ -542,7 +542,7 @@ dependency = {
 	subject_type = "tributary_state"
 	first = KAZ
 	second = VYA
-	start_date = 1444.1.1
+	start_date = 1444.11.12 #shattered
 	end_date = 1489.1.1
 }
 
@@ -550,7 +550,7 @@ dependency = {
 	subject_type = "tributary_state"
 	first = GOL
 	second = YLT
-	start_date = 1444.1.1
+	start_date = 1444.11.12 #shattered
 	end_date = 1483.1.1
 }
 
