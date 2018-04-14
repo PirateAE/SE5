@@ -20,7 +20,12 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 
-1416.3.15 = { owner = FRA add_core = FRA controller = FRA } # Death of Jean de Valois
+1444.11.12 = {
+	owner = FRA
+	controller = FRA
+	add_core = FRA
+}
+
 1560.1.1 = { religion = reformed }
 1562.3.1 = { unrest = 3 } # Huguenots organise themselves along the Loire
 1563.3.19 = { unrest = 0 } # Temporary truce after the assassination of de Guise

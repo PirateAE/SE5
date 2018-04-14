@@ -2,8 +2,8 @@
 #Region - France
 #Area - Seine
 
-owner = FRA
-controller = FRA
+owner = CHP
+controller = CHP
 capital = "Nemours"
 is_city = yes
 culture = cosmopolitan_french
@@ -15,12 +15,17 @@ trade_goods = grain
 base_manpower = 2
 estate = estate_church
 add_core = CHP
-add_core = FRA
 
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
+
+1444.11.12 = {
+	owner = FRA
+	controller = FRA
+	add_core = FRA
+}
 
 1588.12.1 = { unrest = 5 } # Henri de Guise assassinated at Blois, Ultra-Catholics into a frenzy
 1594.1.1 = { unrest = 0 } # 'Paris vaut bien une messe!', Henri converts to Catholicism
