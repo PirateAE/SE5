@@ -2,8 +2,8 @@
 #Region - France
 #Area - Guyenne
 
-owner = FRA
-controller = FRA
+owner = GUY
+controller = GUY
 capital = "Cahors"
 is_city = yes
 culture = occitain	#aquitaine vanilla
@@ -13,13 +13,18 @@ base_tax = 2
 base_production = 2
 trade_goods = wine
 base_manpower = 2
-add_core = FRA
 add_core = GUY
 
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
+
+1444.11.12 = {
+	owner = FRA
+	controller = FRA
+	add_core = FRA
+}
 
 1560.1.1 = { religion = reformed }
 1565.1.1 = { unrest = 8 } # France is restless once again as ultra-catholic intentions become clear

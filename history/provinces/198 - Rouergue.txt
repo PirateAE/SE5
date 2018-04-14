@@ -2,8 +2,8 @@
 #Region - France
 #Area - Massif Central
 
-owner = FRA
-controller = FRA
+owner = AMG
+controller = AMG
 capital = "Rodez"
 is_city = yes
 culture = occitain
@@ -15,9 +15,7 @@ trade_goods = wool
 base_manpower = 2
 add_local_autonomy = 25
 estate = estate_nobles
-add_core = GUY
-add_core = TOU
-add_core = FRA
+
 
 
 
@@ -26,6 +24,13 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 
+1444.11.12 = {
+	owner = FRA
+	controller = FRA
+	add_core = FRA
+	add_core = GUY
+	add_core = TOU
+}
 
 1588.12.1 = { unrest = 5 } # Henri de Guise assassinated at Blois, Ultra-Catholics into a frenzy
 1589.1.5 = { owner = NAV controller = NAV add_core = NAV }
