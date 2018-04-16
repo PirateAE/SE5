@@ -29,7 +29,7 @@ add_army_professionalism = 0.05
 	}
 }
 
-1395.1.1 = {
+1395.5.11 = {
 	heir = {
 		name = "Giovanni Maria"
 		monarch_name = "Giovanni Maria I"

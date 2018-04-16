@@ -221,7 +221,7 @@ unlock_cult = zanahary_cult
 		monarch_name = "Andriamasinavalona"
 		dynasty = "Merina"
 		birth_date = 1630.1.1
-		death_date = 1670.1.1
+		death_date = 1670.6.1
 		claim = 95
 		adm = 2
 		dip = 4
@@ -311,7 +311,7 @@ unlock_cult = zanahary_cult
 	}
 }
 
-1750.1.1 = {
+1770.1.1 = {
 	heir = {
 		name = "Andrianampoinimerina"
 		monarch_name = "Andrianampoinimerina"

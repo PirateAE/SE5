@@ -107,7 +107,7 @@ religious_school = hanafi_school
 
 #While Muhammad Shah is away his brother hussain usurps the throne
 
-1457.1.1 = {
+1457.2.1 = {
 	heir = {
 		name = "Hussain"
 		monarch_name = "Hussain Shah"
