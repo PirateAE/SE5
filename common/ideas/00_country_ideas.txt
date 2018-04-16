@@ -17,7 +17,7 @@ ENG_ideas = {
 	}
 	
 	trigger = {
-		tag = ENG
+		primary_culture = english
 	}
 	free = yes		#will be added at load.
 	
@@ -356,7 +356,10 @@ FRA_ideas = {
 	}	
 
 	trigger = {
-		tag = FRA
+		OR = {
+			tag = FRA
+			tag = PRS
+		}
 	}
 	free = yes		#will be added at load.
 	

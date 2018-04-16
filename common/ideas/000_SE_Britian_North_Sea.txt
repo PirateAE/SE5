@@ -1,0 +1,283 @@
+# I AM USING OLD MY OLD IDEAS AS PLACE HOLDERS
+# THESE ALL NEED TO BE CHECKED BY SOMEONE WHO PLAYS THE GAME
+# Make sure to annotate each group once SAT
+# -Nep <3
+
+
+
+### Mainland ###
+
+### York and Lancaster - Created by ???
+plantagenet_ideas = {
+	start = {
+		possible_mercenaries = 0.5
+		global_manpower_modifier = 0.25
+	}
+	bonus = {
+		war_exhaustion = -0.075
+	}	
+	trigger = {
+		OR = {
+			tag = LNC
+			tag = YRK
+		}
+	}
+	free = yes	
+	french_mercenaries = {
+		possible_mercenaries = 0.25
+		merc_maintenance_modifier = -0.25
+	}
+	kingdom_horse = {
+		cavalry_cost = -0.2
+	}
+	gave_battle_vain = {
+		land_morale = 0.10
+	}
+	princes_tower = {
+		global_unrest = -2
+	}
+	planatagenet_legacy = {
+		unjustified_demands = -0.2
+	}
+	angevin_empire = {
+		vassal_income = 0.3
+	}
+	magna_carta = {
+		stability_cost_modifier = -0.2
+	}
+}
+
+### Ireland ###
+
+### United Ireland- Created by hr135141
+CEL_ideas = {
+	start = {
+		infantry_power = 0.2
+		land_morale = 0.1
+	}
+
+	bonus = {
+		army_tradition = 1
+	}
+	
+	trigger = {
+		tag = CEL
+	}
+	free = yes		#will be added at load.
+	
+	celts_survival = {
+		war_exhaustion = -0.05
+	}
+	celts_six_nations = {
+		idea_cost = -0.1	
+	}
+	celts_monastic_schools = {
+		technology_cost = -0.05
+	}
+	celts_soldiers = {
+		discipline = 0.05
+	}
+	celts_memory = {
+		core_creation = -0.25		
+	}
+	celts_illuminated_manuscripts = {
+		prestige = 1
+	}
+	celts_resettle = {
+		culture_conversion_cost = -0.25
+	}
+}
+
+### Anlgo Ireland United - Created by hr135141
+ANI_ideas = {
+	start = {
+		global_tax_modifier = 0.15
+		production_efficiency = 0.1
+	}
+
+	bonus = {
+		diplomatic_upkeep = 1
+	}
+	
+	trigger = {
+		OR = {
+			tag = ANI
+			primary_culture = anglo_irish
+		}
+	}
+	free = yes		#will be added at load.
+	
+	koi_baptism_by_fire = {
+		army_tradition = 0.25
+		discipline = 0.025
+	}
+	koi_parliament_ireland = {
+		advisor_cost = -0.15
+	}
+	koi_trim_castle = {
+		defensiveness = 0.1			#added by Draiocht
+		fort_maintenance_modifier = -0.1			#halved because of defensiveness bonus
+	}
+	koi_urban_culture = {
+		development_cost = -0.1
+	}
+	koi_anglo_rapprochement = {
+		improve_relation_modifier = 0.2			#moved forward 1 more, from the 7th idea to the 5th
+	}
+	koi_bill_of_rights = {
+		global_unrest = -1			#reduced to 1 to match the English Bill of Rights, only the American one gets -2, also moved back to 6th place
+	}
+	koi_mixed_heritage = {
+		religious_unity = 0.25			#changed by Draiocht because of culture changes in 1.18 and the Ireland overhaul in BT 3.0, was formerly more accepted cultures and the second idea, now religious and the last. All other ideas moved forward
+		tolerance_heretic = 2				#changed by Draiocht because of culture changes in 1.18 and the Ireland overhaul in BT 3.0, was formerly more accepted cultures and the second idea, now religious and the last. All other ideas moved forward
+	}
+}
+
+### North Sea ###
+
+### Iceland - Created by Sotof/Wallain
+ICE_ideas = {
+	start = {
+		naval_forcelimit_modifier = 0.5
+		global_ship_cost = -0.1
+	}
+	bonus = {
+		naval_maintenance_modifier = -0.1
+	}
+	trigger = {
+		tag = ICE
+	}
+	free = yes
+	althing = {
+		global_unrest = -1
+		republican_tradition = 1
+	}
+	icelandic_fishing_industry = {
+		production_efficiency = 0.15
+	}
+	expand_reykjavik = {
+		development_cost = -0.2
+	}
+	support_icelandic_merchants = {
+		global_trade_power = 0.2
+	}
+	the_new_jordebog = {
+		global_tax_modifier = 0.2
+	}
+	skuli_magnusson = {
+		idea_cost = -0.10
+	}
+	break_the_trade_monopoly = {
+		global_trade_goods_size = 0.15
+	}
+}
+
+### Faroes - Created by Sotof/Wallain
+FAR_ideas = {
+	start = {
+		naval_forcelimit_modifier = 0.5
+		global_ship_cost = -0.1
+	}	
+	bonus = {
+		naval_maintenance_modifier = -0.1
+	}	
+	trigger = {
+		tag = FAR
+	}
+	free = yes
+	the_logting = {
+		global_unrest = -1
+		republican_tradition = 1
+	}
+	magnus_heinason = {
+		naval_morale = 0.20
+	}
+	construct_skansin = {
+		defensiveness = 0.25
+	}
+	build_torshavn_cathedral = {
+		stability_cost_modifier = -0.15
+	}
+	torshavn_dockyard = {
+		light_ship_cost = -0.20
+	}
+	break_the_trade_monopoly = {
+		global_trade_goods_size = 0.15
+	}
+	faroese_fishing_industry = {
+		production_efficiency = 0.15
+	}	
+}
+
+### Shetlands - Created by Sotof/Wallain
+SHT_ideas = {
+	start = {
+		naval_forcelimit_modifier = 0.5
+		global_ship_cost = -0.1
+	}	
+	bonus = {
+		naval_maintenance_modifier = -0.1
+	}	
+	trigger = {
+		tag = SHT
+	}
+	free = yes
+	encourage_shetlandic_fishing = {
+		production_efficiency = 0.15
+	}
+	build_fort_charlotte = {
+		defensiveness = 0.25
+	}
+	leirvik_townhall = {
+		global_tax_modifier = 0.2
+	}
+	found_university_in_leirvik = {
+		technology_cost = -0.05
+	}
+	leirvik_dockyard = {
+		light_ship_cost = -0.20
+	}
+	leirvik_naval_academy = {
+		navy_tradition = 1
+	}
+	shetlandic_homerule = {
+		global_unrest = -2
+	}	
+}
+
+### Created by Sotof/Wallain
+ORK_ideas = {
+	start = {
+		naval_forcelimit_modifier = 0.5
+		global_ship_cost = -0.1
+	}	
+	bonus = {
+		naval_maintenance_modifier = -0.1
+	}	
+	trigger = {
+		tag = ORK
+	}
+	free = yes
+	jarldom_of_orkney = {
+		global_unrest = -1
+		legitimacy = 1
+	}
+	expand_kirkwall_shipyard = {
+		light_ship_cost = -0.20
+	}
+	fortify_kirkwall = {
+		defensiveness = 0.25
+	}
+	encourage_orcadian_fishing = {
+		production_efficiency = 0.15
+	}
+	orcadian_naval_academy = {
+		navy_tradition = 1
+	}
+	found_university_in_kirkwall = {
+		technology_cost = -0.05
+	}
+	fund_orcadian_merchants = {
+		global_trade_power = 0.2
+	}	
+}

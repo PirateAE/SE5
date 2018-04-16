@@ -1,0 +1,392 @@
+# I AM USING OLD MY OLD IDEAS AS PLACE HOLDERS
+# THESE ALL NEED TO BE CHECKED BY SOMEONE WHO PLAYS THE GAME
+# Make sure to annotate each group once SAT
+# -Nep <3
+
+###Created by Inkwizytor Zeketer
+
+### Created by ???
+AMG_ideas = {
+	start = {
+		merc_maintenance_modifier = -0.20
+		cavalry_power = 0.1
+	}
+	bonus = {
+		spy_offence = 0.20
+	}
+	trigger = {
+		tag = AMG
+	}
+	free = yes		
+	routiers_ecorcheurs = {
+		possible_mercenaries = 0.5
+	}
+	basel_lesson = {
+		army_tradition = 0.5
+	}
+	armagnac_party = {
+		prestige = 1
+	}
+	factional_politics = {
+		diplomatic_upkeep = 1
+	}
+	feudal_possesions = {
+		defensiveness = 0.15
+	}
+	enterpreneurs_amg = {
+		global_tax_modifier = 0.1
+	}
+	brandy_trade = {
+		production_efficiency = 0.1
+	}
+}
+
+### Created by ???
+anjou_ideas = {
+	start = {
+		heir_chance = 0.5
+		legitimacy = 1
+	}
+	bonus = {
+		ae_impact = -0.15
+	}
+	trigger = {
+		tag = ANJ
+	}
+	free = yes
+	only_true_heir = {
+		diplomatic_reputation = 1
+	}
+	realm_of_diversity = {
+		num_accepted_cultures = 1
+	}
+	legacy_of_dynastic_conflicts = {
+		merc_maintenance_modifier = -0.25
+	}
+	advanced_dynastic_management = {
+		spy_offence = 0.20
+	}
+	apocalypse_tapestry = {
+		discipline = 0.05
+	}
+	chateaux_of_loire_valley = {
+		prestige = 1
+	}
+	tuffeau = {
+		build_cost = -0.15
+	}
+}
+
+### Angevin Empire - Created by ???
+ANV_ideas = {
+	start = {
+		land_morale = 0.1
+		advisor_cost = -0.10
+	}
+	bonus = {
+		global_manpower_modifier = 0.20
+	}
+	trigger = {
+		tag = ANV
+	}
+	free = yes
+	the_grand_reconstruction = {
+		development_cost = -0.1
+		defensiveness = 0.10
+	}
+	bank_of_normandy = {
+		global_tax_modifier = 0.15
+	}
+	welsh_longbowmen = {
+		discipline = 0.075
+	}
+	army_of_officals = {
+		vassal_income = 0.25
+		vassal_forcelimit_bonus = 0.20
+	}
+	english_channel_control = {
+		trade_efficiency = 0.15
+	}
+	anv_dual_monarchy = {
+		prestige = 1
+		global_unrest = -1
+	}
+	iron_and_wine = {
+		global_trade_goods_size_modifier = 0.15
+	}
+}
+
+### Created by Inkwizytor Zeketer
+avignon_ideas = {
+	start = {
+		global_spy_defence = 0.25
+		ae_impact = -0.20
+	}
+	bonus = {
+		prestige_from_land = 1.25
+	}
+	trigger = {
+		tag = AVI
+	}
+	free = yes
+	sieges_of_avignon = {
+		war_exhaustion = -0.05
+	}
+	avignon_exchange = {
+		embargo_efficiency = 0.30
+		interest = -1
+	}
+	republic_of_avignon = {
+		years_of_nationalism = -5
+		republican_tradition = 0.5
+	}
+	university_of_avignon = {
+		improve_relation_modifier = 0.30
+		advisor_pool = 1
+	}
+	palais_des_papes = {
+		unjustified_demands = -0.30
+		core_creation = -0.20
+	}
+	bridge_of_avignon = {
+		envoy_travel_time = -0.25
+		caravan_power = 0.25
+	}
+	great_schism = {
+		vassal_forcelimit_bonus = 0.25
+		vassal_income = 0.25
+	}
+}
+
+### Created by Inkwizytor Zeketer
+champagnian_ideas = {
+	start = {
+		cavalry_power = 0.10
+		land_morale = 0.10
+	}
+	bonus = {
+		global_trade_goods_size = 0.10
+	}
+	trigger = {
+		tag = CHP
+	}
+	free = yes
+	royal_seneschals = {
+		global_tax_modifier = 0.20
+	}
+	champagnian_independence = {
+		legitimacy = 1
+	}
+	champagne_fairs = {
+		global_prov_trade_power_modifier = 0.10
+		trade_steering = 0.10
+	}
+	battle_of_chalons = {
+		infantry_power = 0.10
+	}
+	cathedral_of_reims = {
+		defensiveness = 0.10
+		vassal_income = 0.25
+	}
+	thibaut_the_troubadour_chants = {
+		manpower_recovery_speed = 0.20
+	}
+	champagne = {
+		prestige = 1
+		global_unrest = -1
+	}
+}
+
+### Created by ???
+FOI_ideas = {
+	start = {
+		global_manpower_modifier = 0.25
+		enemy_core_creation = 0.5
+	}
+	bonus = {
+		land_morale = 0.10
+	}
+	trigger = {
+		tag = FOI
+	}
+	free = yes
+	pyrenean_crossroads = {
+        global_prov_trade_power_modifier = 0.2
+	}
+	chivalric_legacy = {
+		army_tradition_decay = -0.01
+		prestige_decay = -0.01
+	}
+	aragon_claims = {
+        ae_impact = -0.15
+	}
+	bearnese_dialect = {
+		stability_cost_modifier = -0.15
+	}
+	fors_de_bearn = {
+        global_unrest = -1
+	}
+	italian_thunderbolt = {
+		leader_land_manuever = 1
+	}
+	vicdessos_mines = {
+        artillery_cost = -0.20
+	}
+}
+
+### CK2 Import Ideas
+karling_ideas = {
+	start = {
+		prestige = 1
+		diplomatic_reputation = 2
+	}
+	bonus = {
+		legitimacy = 1
+	}
+	trigger = {
+		tag = BAR
+	}
+	free = yes	
+	kings_of_europe = {
+		global_unrest = -2
+	}
+	carolingian_grand_strategy = {
+		core_creation = -0.20
+	}
+	military_obligations = {
+		global_manpower_modifier = 0.30
+	}
+	retinue_regnum_francorum = {
+		land_morale = 0.20
+	}
+	legacy_of_the_romans = {
+		idea_cost = -0.1
+		build_cost = -0.1
+	}
+	carolingian_renaissance = {
+		technology_cost = -0.05
+	}
+	tradition_of_war = {
+		army_tradition = 1
+	}
+}
+
+### Created by Neprut
+norman_ideas = {
+	start = {
+		global_manpower_modifier = 0.10
+		global_regiment_recruit_speed = -0.10
+	}
+	bonus = {
+		army_tradition = 0.5
+	}
+	trigger = {
+		tag = NRM
+	}
+	free = yes
+	rollo = {
+		ae_impact = -0.15
+	}
+	treaty_of_saint_clair = {
+		core_creation = -0.2
+	}
+	fortress_of_caen = {
+		defensiveness = 0.15
+	}
+	charte_aux_normands = {
+		global_unrest = -1
+	}
+	great_dynastic_relations = {
+		diplomatic_reputation = 2
+	}
+	nrm_religious_tolerence = {
+		tolerance_heretic = 2
+	}
+	viking_legacy = {
+		global_colonial_growth = 10
+		colonists = 1
+	}
+}
+
+### Created by Julien.Frison
+occitan_ideas = {
+	start = {
+		global_tax_modifier = 0.10
+		merc_maintenance_modifier = -0.25
+	}
+	bonus = {
+		technology_cost = -0.05
+	}
+	trigger = {
+		OR = {
+			tag = GUY
+			tag = DAU
+			tag = AUV
+			tag = OCC
+		}
+	}
+	free = yes
+	paratge_traditions = {
+		diplomatic_reputation = 2
+	}
+	religious_openmindedness = {
+		tolerance_heretic = 1
+		idea_cost = -0.1
+	}
+	ambiguous_diplomacy = {
+		diplomatic_upkeep = 2
+	}
+	mediterranean_multiculturalism = {
+		tolerance_heathen = 1
+		#global_missionary_strength = -0.02
+		religious_unity = 0.25
+	}
+	merchant_cities = {	
+		global_trade_power = 0.15
+		naval_maintenance_modifier = -0.1
+	}
+	foral_laws = {
+		global_unrest = -1
+		republican_tradition = 0.5
+	}
+	occitan_renaissance = {
+		prestige = 1
+	}
+}
+
+### Created by Inkwizytor Zeketer
+toulousain_ideas = {
+	start = {
+		defensiveness = 0.25
+		cavalry_power = 0.10
+	}	
+	bonus = {
+		no_religion_penalty = yes
+	}	
+	trigger = {
+		tag = TOU
+	}
+	free = yes	
+	visigoth_capital = {
+		land_forcelimit_modifier = 0.20
+	}
+	spanish_march = {
+		global_manpower_modifier = 0.10
+	}
+	center_of_occitania = {
+		technology_cost = -0.075
+	}
+	consistori_del_gay_saber = {
+		stability_cost_modifier = -0.10
+	}
+	capitouls = {
+		global_prov_trade_power_modifier = 0.10
+		republican_tradition = 0.5
+	}
+	the_perfecti_revival = {
+		global_missionary_strength = 0.02
+	}
+	remember_the_montsegur = {
+		land_morale = 0.20
+	}
+}
