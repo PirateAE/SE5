@@ -104,6 +104,10 @@ ANI_ideas = {
 			tag = ANI
 			primary_culture = anglo_irish
 		}
+		NOT = { 
+			tag = DMS
+			tag = KID
+		}
 	}
 	free = yes		#will be added at load.
 	

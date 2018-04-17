@@ -868,15 +868,7 @@ SCO_Ideas = {
 	}
 	
 	trigger = {
-		OR = { 
-			primary_culture = scottish
-			primary_culture = highland_scottish
-			primary_culture = gallgaidheil
-		}
-		NOT = {
-			tag = CEL
-			tag = TNA
-		}
+		tag = SCO
 	}
 	free = yes
 	
@@ -7724,7 +7716,10 @@ MNS_ideas = {
 	}
   
 	trigger = {
-		tag = MNS
+		OR = {
+			tag = MNS
+			tag = THO
+		}
 	}
 	free = yes
   
@@ -11228,7 +11223,10 @@ LEI_ideas = {
 	}
 	
 	trigger = {
-		tag = LEI
+		OR = {
+			tag = LEI
+			tag = LAI
+		}
 	}
 	free = yes		#will be added at load.
 	
@@ -11267,7 +11265,11 @@ CNN_ideas = {
 	}
 	
 	trigger = {
-		tag = CNN
+		OR = {
+			tag = CNN
+			tag = MYO
+			tag = GLW
+		}
 	}
 	free = yes		#will be added at load.
 	
@@ -11383,7 +11385,10 @@ ULS_ideas = {
 	}
 	
 	trigger = {
-		tag = ULS
+		OR = {
+			tag = ULS
+			tag = CLN
+		}
 	}
 	free = yes
 	

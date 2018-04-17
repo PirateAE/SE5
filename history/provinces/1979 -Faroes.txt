@@ -2,26 +2,25 @@
 #Region - Scandinavia
 #Area - Northern Isles
 
-owner = FAR
-controller = FAR 
-culture = norwegian
+owner = NOR
+controller = NOR 
+culture = norwegian #faroese
 religion = catholic
 hre = no
 base_tax = 1 
 base_production = 1
 base_manpower = 0.5
-trade_goods = fish
+trade_goods = whaling
 capital = "Torshavn"
 is_city = yes
+add_core = NOR
 add_core = FAR
-
 discovered_by = western
+seat_in_parliament = yes
 
-1444.11.12 = {
-	owner = NOR
-	controller = NOR
-	add_core = NOR
-}
+1444.11.12 = { remove_core = NOR owner = FAR }
+1444.11.31 = { add_core = NOR owner = NOR add_local_autonomy = -30 seat_in_parliament = no }
+
 1536.1.1 = {
 	religion = protestant
 	owner = DAN
