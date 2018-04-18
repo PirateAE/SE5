@@ -18,6 +18,7 @@ base_manpower = 1
 capital = "Durham"
 #fort_15th = yes
 is_city = yes
+add_core = ENG
 add_core = DUR
 add_core = NOL
 
@@ -26,21 +27,15 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 
-1444.11.12 = {
-	owner = ENG
-	controller = ENG
-	add_core = ENG
-}
-
-1444.11.13 = { #BeyondTypus batch edit shortcut more vassal start date begin
+1444.11.12 = { #BeyondTypus batch edit shortcut more vassal start date begin
 	owner = DUR
 	controller = DUR
 	remove_core = ENG
 	add_local_autonomy = -90
 }
 1444.11.15 = { #BeyondTypus batch edit shortcut more vassal start date end
-	owner = ENG
-	controller = ENG
+	#owner = ENG
+	#controller = ENG
 	add_core = ENG
 	add_local_autonomy = 90
 }

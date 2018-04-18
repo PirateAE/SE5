@@ -11,7 +11,7 @@ hre = no
 base_tax = 3
 base_production = 2
 base_manpower = 1
-trade_goods = grain
+trade_goods = barley
 capital = "Nás na Ríogh"
 is_city = yes
 

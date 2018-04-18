@@ -1,0 +1,20 @@
+Britian & North Sea
+	Ideas - Added All
+		Needs localization
+		Ideas need adjusted
+	Trade Goods - initial implemenation
+		need to compare to vanilla and old SE
+	Nation History - NOT DONE
+		Need to fix rulers and vassals
+	
+France
+	Ideas - Added All
+		Needs localization
+	Trade Goods - NOT DONE
+	Nation History - NOT DONE
+	
+Spain
+	Ideas - NOT DONE
+	Trade Goods - iNOT DONE
+	Nation History - NOT DONE
+	New Tags - NOT DONE
