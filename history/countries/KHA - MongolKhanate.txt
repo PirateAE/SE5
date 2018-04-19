@@ -172,16 +172,6 @@ historical_rival = OIR #so they will try to break free
 }
 
 1393.1.1 = {
-	monarch = {
-		name = "Elbeg Nigülesügchi"
-		dynasty = "Borjigin"
-		adm = 0
-		dip = 0
-		mil = 1
-	}
-}
-
-1393.1.1 = {
 	heir = {
 		name = "Gün Temür"
 		monarch_name = "Gün Temür"

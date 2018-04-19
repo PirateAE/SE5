@@ -81,7 +81,7 @@ capital = 4085	# Yaka
 	}
 } 
 
-1740.1.1 = {
+1780.1.1 = {
 	monarch = {
 		name = "Mbaala"
 		dynasty = "Kyambvu"
