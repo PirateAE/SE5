@@ -72,9 +72,12 @@ capital = 1775	# Kiel
 
 1440.1.1 = {
 	heir = {
-		name = "Christian I"
+		name = "Christian"
+		monarch_name = "Christian I"
 		dynasty = "von Oldenburg"
 		birth_date = 1426.2.1
+		death_date = 1544.1.1
+		claim = 90
 		adm = 4
 		dip = 1
 		mil = 2

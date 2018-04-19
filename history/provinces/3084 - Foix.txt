@@ -29,7 +29,6 @@ discovered_by = eastern
 	controller = FRA
 	add_core = FRA
 	add_core = GUY
-	add_core = FRA
 	add_core = AMG
 }
 

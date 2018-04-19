@@ -356,6 +356,12 @@ national_focus = MIL
 
 1640.1.1 = { remove_accepted_culture = sicilian remove_accepted_culture = lombard }
 
+1647.7.7 = { leader = {	name = "Juan José de Austria"		type = general	fire = 3	shock = 3	manuever = 2	siege = 0	death_date = 1663.6.4 } }
+
+1648.1.30 = {
+	leave_league = catholic
+}
+
 1649.10.7 = {
 	queen = {
 		country_of_origin = HAB
@@ -368,13 +374,6 @@ national_focus = MIL
 		dip = 1
 		mil = 1
 	}
-}
-
-1647.7.7 = { leader = {	name = "Juan José de Austria"		type = general	fire = 3	shock = 3	manuever = 2	siege = 0	death_date = 1663.6.4 } }
-
-
-1648.1.30 = {
-	leave_league = catholic
 }
 
 1661.11.6 = {

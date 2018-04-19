@@ -33,7 +33,6 @@ capital = 4185	# Tango
 	monarch = {
 		name = "Akinori"
 		dynasty = "Isshiki"
-		death_date = 1406.6.22
 		adm = 3
 		dip = 3
 		mil = 3
@@ -54,17 +53,6 @@ capital = 4185	# Tango
 	}
 }
 
-1406.6.22 = {
-	monarch = {
-		name = "Mitsunori" # 1368 - 1409 
-		dynasty = "Isshiki"
-		birth_date = 1368.1.1
-		adm = 4
-		dip = 3
-		mil = 4
-		}
-}
-
 1406.6.1 = {
 	heir = {
 		name = "Yoshitsura"
@@ -77,6 +65,17 @@ capital = 4185	# Tango
 		dip = 2
 		mil = 3
 	}
+}
+
+1406.6.22 = {
+	monarch = {
+		name = "Mitsunori" # 1368 - 1409 
+		dynasty = "Isshiki"
+		birth_date = 1368.1.1
+		adm = 4
+		dip = 3
+		mil = 4
+		}
 }
 
 1409.1.25 = {

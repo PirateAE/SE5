@@ -1930,8 +1930,10 @@ wine = {
 		}
 		modifier = { #Wine country
 			factor = 2.0
-			province_id = 5045		# Wintu
-			province_id = 2737		# Napier (NZ)
+			OR = {
+				province_id = 5045		# Wintu
+				province_id = 2737		# Napier (NZ)
+			}
 		}
 		modifier = { #Overcoming biases from other factors
 			factor = 32.0
@@ -3898,9 +3900,7 @@ gold = {
 		}
 		modifier = {	#Gold is a bit more common here
 			factor = 1.5
-			OR = {
-				region = alaska_region
-			}
+			region = alaska_region
 		}
 		modifier = {	#Gold is a bit rarer here
 			factor = 0.5
@@ -3914,14 +3914,12 @@ gold = {
 		}
 		modifier = {	#Gold is rarer here
 			factor = 0.25
-			OR = {
-				AND = {
-					region = cascadia_region
-					NOT = {
-						OR = {
-							area = southern_cascades_area			#Gold is rare in Cascadia, but more common in Oregon
-							area = oregon_area
-						}
+			AND = {
+				region = cascadia_region
+				NOT = {
+					OR = {
+						area = southern_cascades_area			#Gold is rare in Cascadia, but more common in Oregon
+						area = oregon_area
 					}
 				}
 			}
