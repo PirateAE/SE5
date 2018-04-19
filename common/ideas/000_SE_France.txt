@@ -281,7 +281,10 @@ norman_ideas = {
 		army_tradition = 0.5
 	}
 	trigger = {
-		tag = NRM
+		OR = {
+			tag = NRM
+			tag = JER
+		}
 	}
 	free = yes
 	rollo = {

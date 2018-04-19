@@ -6,8 +6,8 @@ latent_trade_goods = {
 	coal
 }
 
-owner = NOL
-controller = NOL
+owner = ENG
+controller = ENG
 culture = northumbrian
 religion = catholic
 hre = no
@@ -18,6 +18,7 @@ base_manpower = 1
 capital = "Newcastle"
 #fort_15th = yes
 is_city = yes
+add_core = ENG
 add_core = NOL
 
 discovered_by = western
@@ -25,11 +26,8 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 
-1444.11.12 = {
-	owner = ENG
-	controller = ENG
-	add_core = ENG
-}
+1444.11.12 = { remove_core = ENG owner = NOL }
+1444.11.31 = { add_core = ENG owner = ENG add_local_autonomy = -15 }
 
 1453.1.1 = { unrest = 5 } # Start of the War of the Roses
 1461.6.1 = { revolt = { type = revolutionary_rebels size = 0 } unrest = 2 controller = REB } # Lancastrian Holdouts after Coronation of Edward IV

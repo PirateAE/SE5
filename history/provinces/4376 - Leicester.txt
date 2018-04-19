@@ -2,17 +2,18 @@
 #Region - Britain
 #Area - Mercia
 
-owner = YRK
-controller = YRK
+owner = ENG
+controller = ENG
 culture = english
 religion = catholic
 hre = no
 base_tax = 3
 base_production = 3
-trade_goods = livestock
+trade_goods = grain #livestock
 base_manpower = 1
 capital = "Leicester"
 is_city = yes
+add_core = ENG
 add_core = YRK
 
 discovered_by = western
@@ -20,11 +21,8 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 
-1444.11.12 = {
-	owner = ENG
-	controller = ENG
-	add_core = ENG
-}
+1444.11.12 = { remove_core = ENG owner = YRK add_local_autonomy = 0 }
+1444.11.31 = { add_core = ENG owner = ENG add_local_autonomy = -15 }
 
 1453.1.1 = { unrest = 5 } # Start of the War of the Roses
 1461.6.1 = { unrest = 2 } # Coronation of Edward IV

@@ -2,18 +2,19 @@
 #Region - Britain
 #Area - Wessex
 
-owner = LOD
-controller = LOD
+owner = ENG
+controller = ENG
 culture = english
 religion = catholic
 hre = no
 base_tax = 4
 base_production = 4
-trade_goods = paper
+trade_goods = linen
 base_manpower = 2
 capital = "Canterbury"
 estate = estate_church
 is_city = yes
+add_core = ENG
 add_core = LOD
 seat_in_parliament = yes
 
@@ -22,11 +23,8 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 
-1444.11.12 = {
-	owner = ENG
-	controller = ENG
-	add_core = ENG
-}
+1444.11.12 = { remove_core = ENG owner = LOD add_local_autonomy = 0 }
+1444.11.31 = { add_core = ENG owner = ENG add_local_autonomy = -15 seat_in_parliament = yes }
 
 1450.5.1 = { revolt = { type = anti_tax_rebels size = 2 } controller = REB } # Jack Cade's rebellion
 1450.7.12 = { revolt = {} controller = ENG }

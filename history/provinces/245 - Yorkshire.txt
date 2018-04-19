@@ -3,17 +3,18 @@
 #Region - Britain
 #Area - Northumbria
 
-owner = YRK
-controller = YRK
+owner = ENG
+controller = ENG
 culture = northumbrian
 religion = catholic
 hre = no
 base_tax = 2 
 base_production = 2
-trade_goods = glass
+trade_goods = lead #glass
 base_manpower = 1
 capital = "Leeds"
 is_city = yes
+add_core = ENG
 add_core = YRK
 add_core = NOL
 
@@ -22,11 +23,8 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 
-1444.11.12 = {
-	owner = ENG
-	controller = ENG
-	add_core = ENG
-}
+1444.11.12 = { remove_core = ENG owner = YRK }
+1444.11.31 = { add_core = ENG owner = ENG add_local_autonomy = -15 }
 
 1453.1.1 = { unrest = 5 } # Start of the War of the Roses
 1459.9.23 = { unrest = 0 revolt = { type = pretender_rebels size = 3 leader = "Edward of York" } controller = REB } # The Battle of Blore Heath

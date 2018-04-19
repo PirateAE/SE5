@@ -2,22 +2,21 @@
 #Region - Britain
 #Area - East Anglia
 
-owner = LOD
-controller = LOD
+owner = ENG
+controller = ENG
 culture = english
 religion = catholic
 hre = no
 base_tax = 8 
 base_production = 8
-trade_goods = cloth
+trade_goods = naval_supplies
 base_manpower = 5
 capital = "London"
 is_city = yes
+add_core = ENG
 add_core = LOD
 seat_in_parliament = yes
 fort_15th = yes
-
-
 
 discovered_by = western
 discovered_by = muslim
@@ -35,11 +34,8 @@ add_permanent_province_modifier = {
 	duration = -1
 }
 
-1444.11.12 = {
-	owner = ENG
-	controller = ENG
-	add_core = ENG
-}
+1444.11.12 = { remove_core = ENG  owner = LOD }
+1444.11.31 = { add_core = ENG owner = ENG seat_in_parliament = yes }
 
 1453.1.1 = { unrest = 5 } # Start of the War of the Roses
 1459.1.1 = { unrest = 7 } # Increasing Popularity of Warwick in London
