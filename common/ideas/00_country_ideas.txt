@@ -439,6 +439,7 @@ VEN_ideas = {
 	trigger = {
 		OR = {
 			tag = VEN
+			tag = VRN
 			AND = {
 				tag = LMV
 				government = republic
@@ -1023,7 +1024,10 @@ NAP_ideas = {
 	}
 	
 	trigger = {
-		tag = NAP
+		OR = {
+			tag = NAP
+			tag = BRX
+		}
 	}
 	
 	free = yes

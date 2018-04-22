@@ -21,6 +21,10 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 
+1444.11.12 = { remove_core = BUR owner = LUX add_local_autonomy = 0 }
+1444.11.21 = { HRE = no }
+1444.11.31 = { add_core = BUR owner = BUR HRE = yes add_local_autonomy = 0 }
+
 1477.1.5 = { owner = HAB controller = HAB add_core = HAB remove_core = BUR } # Charles the Bold dies, Lowlands to Austria
 1519.1.12 = { owner = SPA controller = SPA add_core = SPA remove_core = HAB } # Charles V gets total control over his Burgundian inheritance
 1559.5.12 = { unrest = 3 } # New bishoprics in the Lowlands create an outrage

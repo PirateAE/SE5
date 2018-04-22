@@ -1,7 +1,7 @@
 #2204 - Samtskhe
 
-owner = GEO
-controller = GEO
+owner = SME
+controller = SME
 culture = armenian
 religion = coptic
 capital = "Kars"
@@ -12,6 +12,7 @@ base_production = 1
 base_manpower = 1
 is_city = yes
 add_core = GEO
+add_core = SME
 add_core = ARM
 
 discovered_by = muslim

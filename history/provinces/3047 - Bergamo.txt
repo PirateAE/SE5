@@ -9,7 +9,7 @@ religion = catholic
 hre = yes 
 base_tax = 4
 base_production = 4
-trade_goods = livestock
+trade_goods = grain
 base_manpower = 2  
 capital = "Bergamo" 
 is_city = yes
@@ -24,6 +24,11 @@ discovered_by = eastern
 	controller = VEN
 	add_core = VEN
 }
+
+1444.11.12 = { remove_core = VEN remove_core = MLO add_core = VRN owner = VRN add_local_autonomy = -12 }
+1444.11.21 = { HRE = no }
+1444.11.31 = { add_core = VEN add_core = MLO remove_core = VRN owner = VEN HRE = yes add_local_autonomy = 12 }
+
 1495.1.1 = { hre = no }
 1509.6.1 = { controller = FRA } # Venice collapses
 1512.1.1 = { controller = VEN } # Brescia revolts

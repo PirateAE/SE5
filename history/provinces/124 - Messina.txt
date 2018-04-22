@@ -9,13 +9,13 @@ religion = catholic
 hre = no 
 base_tax = 5 
 base_production = 5
-trade_goods = fish
+trade_goods = silk
 base_manpower = 4
 fort_15th = yes #Numerous forts, Castello Maniace and Castello di Milazzo being the prominent.
 capital = "Messina"
 is_city = yes 
 add_core = SIC
-#add_core = NAP
+add_core = GRI
 
 discovered_by = western
 discovered_by = muslim
@@ -33,6 +33,10 @@ discovered_by = eastern
 	controller = ARA
 	add_core = ARA
 }
+
+1444.11.12 = { remove_core = SIC owner = GRI add_local_autonomy = 0 }
+1444.11.31 = { add_core = SIC owner = SIC add_local_autonomy = 0 }
+
 1444.11.18 = { #BeyondTypus batch edit shortcut no vassal start date end
 	owner = SIC
 	controller = SIC

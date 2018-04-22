@@ -111,6 +111,9 @@ mild_winter = {
 	5832  
 	
 	972 974 975 2022 2609 2610 4941 5731 5732 5733 5734 5735 5736 5780 			#Pacific temperate rainforests, hovers right between between mild and normal winters
+	
+	#Shattered Europa
+	4172
 }
 
 #Generally places where snow is nearly guaranteed any given year, and average winter temperatures hover around 0C
@@ -222,5 +225,8 @@ impassable = {
 	#Beyond Typus Reserved For Planned Wastelands
 	#5114 5115
 	#Beyond Typus New Wastelands Later Removed
-	#5113 2608 5122 5127 5128 
+	#5113 2608 5122 5127 5128
+	
+	#Shattered Europa
+	4172
 }

@@ -23,6 +23,10 @@ discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
 
+1444.11.12 = { remove_core = GEN remove_core = SAR owner = COR }
+1444.11.21 = { HRE = no }
+1444.11.31 = { HRE = yes }
+1444.11.31 = { add_core = GEN add_core = SAR owner = GEN add_local_autonomy = -30 }
 
 1450.1.1 = {
 	remove_core = SAR

@@ -1,0 +1,6 @@
+#Italy
+BRX = "countries/Bari.txt"
+GRI = "countries/Griko.txt"
+MNC = "countries/Monaco.txt"
+SAN = "countries/SanMarino.txt"
+VRN = "countries/Verona.txt"

@@ -1,7 +1,7 @@
 #4303 - Oltu
 
-owner = GEO
-controller = GEO
+owner = SME
+controller = SME
 culture = georgian
 religion = orthodox
 capital = "Oltu"
@@ -11,6 +11,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
+add_core = SME
 add_core = GEO
 add_core = ARM
 add_core = ERE

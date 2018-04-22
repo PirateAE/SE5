@@ -145,7 +145,7 @@ europe = {
 	#3249 3252 3259 3258 3257 3260  #BT provinces replaced by vanilla in 1.23 - Caucasus
 	
 	#Shattered Europa
-	6660
+	6660 6661 6662
 }
    
 asia = {
@@ -253,6 +253,9 @@ asia = {
 	#5183 5179 5182 5202 5159 5204  #BT provinces replaced by vanilla in 1.23 - Levant
 	#5148 5292 5294 3255 5291  #BT provinces replaced by vanilla in 1.23 - Armenia
 	#5230 5234 5237 5253 5260 5254 5252 5257 5248 5247 5245 5236 5258 5242 5238 5259 5240  #BT provinces replaced by vanilla in 1.23 - Arabia
+
+	#Shattered Europa
+	4172
 }
 
 africa = {

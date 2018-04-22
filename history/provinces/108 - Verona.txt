@@ -9,7 +9,7 @@ religion = catholic
 hre = no 
 base_tax = 7
 base_production = 7
-trade_goods = grain
+trade_goods = leather
 base_manpower = 3
 capital = "Verona" 
 is_city = yes 
@@ -28,6 +28,10 @@ discovered_by = ottoman
 	add_core = VEN
 	remove_core = MLO
 } # To Milano
+
+1444.11.12 = { add_core = VRN remove_core = VEN owner = VRN }
+1444.11.31 = { remove_core = VRN add_core = VEN owner = VEN add_local_autonomy = -30 }
+
 1508.12.10 = { add_core = HAB } # War of the League of Cambrai 
 1509.6.1 = { controller = HAB } # Venice collapses
 1511.6.23 = { owner = HAB } # Austria switches sides

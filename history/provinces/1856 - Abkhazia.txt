@@ -1,7 +1,7 @@
 #1856 - Abkhazia
 
-owner = GEO
-controller = GEO
+owner = IME
+controller = IME
 culture = georgian
 religion = orthodox
 capital = "Sukhumi"

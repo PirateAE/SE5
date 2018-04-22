@@ -9,7 +9,7 @@ religion = catholic
 hre = yes 
 base_tax = 5 
 base_production = 5    
-trade_goods = cloth
+trade_goods = linen
 base_manpower = 2  
 capital = "Brescia" 
 is_city = yes
@@ -24,6 +24,11 @@ discovered_by = eastern
 	controller = VEN
 	add_core = VEN
 }
+
+1444.11.12 = { add_core = VRN remove_core = VEN remove_core = MLO owner = VRN add_local_autonomy = -12 }
+1444.11.21 = { HRE = no }
+1444.11.31 = { HRE = yes }
+1444.11.31 = { remove_core = VRN add_core = VEN add_core = MLO owner = VEN add_local_autonomy = 12 }
 1495.1.1 = { hre = no }
 1509.6.1 = { controller = FRA } # Venice collapses
 1512.1.1 = { controller = VEN } # Brescia revolts
