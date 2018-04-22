@@ -23,7 +23,7 @@ discovered_by = eastern
 1417.1.1 = { controller = ENG } # Captured by the English
 1432.1.1 = { controller = FRA } # Retaken by Charles VII
 
-1444.11.12 = { remove_core = FRA add_core = PRS owner = PRS add_local_autonomy = 0 }
+1444.11.12 = { remove_core = FRA add_core = PRI owner = PRI add_local_autonomy = 0 }
 1444.11.31 = { add_core = FRA owner = FRA add_local_autonomy = -30 }
 
 1560.1.1 = { religion = reformed }

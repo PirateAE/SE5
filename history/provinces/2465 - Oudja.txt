@@ -5,7 +5,7 @@ controller = TLC
 culture = riffian
 religion = sunni
 capital = "Oujda"
-trade_goods = cloth
+trade_goods = horses
 hre = no
 base_tax = 2
 base_production = 1
@@ -20,6 +20,9 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = western
 discovered_by = eastern
+
+1444.11.12 = { remove_core = TLC owner = RIF add_local_autonomy = 0 }
+1444.11.31 = { add_core = TLC owner = TLC add_local_autonomy = 0 }
 
 
 #Oujda was right on the border and torn between Morocco and Tlemcen (later Ottomans). Just calling it Tlemcen for now until 1790, rather than bother with the back and forth every couple years.

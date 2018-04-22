@@ -374,7 +374,8 @@ aragon_area = { #4
 }
 
 catalonia_area = { #4
-	197 212 213 2987 2988 
+	197 212 213 2987 2988
+	6660 #Shattered - Andorra
 }
 
 valencia_area = { #3

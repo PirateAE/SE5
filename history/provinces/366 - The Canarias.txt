@@ -23,12 +23,17 @@ native_hostileness = 0
 	owner = CAS
 	controller = CAS
 	add_core = CAS
+	add_core = MCN
 	is_city = yes
 	religion = catholic
 	culture = castillian	
 	trade_goods = sugar
 	capital = "Betancuria"
 } # Castilian control
+
+1444.11.12 = { remove_core = CAS owner = MCN add_local_autonomy = -5 }
+1444.11.31 = { add_core = CAS owner = CAS add_local_autonomy = -25 }
+
 1478.6.24 = { capital = "Las Palmas" }
 1516.1.23 = {
 	controller = SPA

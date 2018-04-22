@@ -21,12 +21,13 @@ native_hostileness = 0
 	owner = POR
 	controller = POR
 	add_core = POR
+	add_core = MCN
 	is_city = yes
 	trade_goods = fish
 	culture = portugese
 	religion = catholic
 }
-1445.1.1 = {
+1444.1.1 = {
 	discovered_by = ENG
 	discovered_by = CAS
 	discovered_by = FRA
@@ -48,6 +49,10 @@ native_hostileness = 0
 	discovered_by = URB
 	discovered_by = MAN
 } # Few changes by Draiocht only some western
+
+1444.11.12 = { remove_core = POR owner = MCN add_local_autonomy = -13 }
+1444.11.31 = { add_core = POR owner = POR add_local_autonomy = 13 }
+
 1475.1.1 = {
 	discovered_by = MOR
 	discovered_by = GRA

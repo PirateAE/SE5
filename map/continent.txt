@@ -143,6 +143,9 @@ europe = {
 	#1.23 Caucasus
 	4299 4305 4306 4301 
 	#3249 3252 3259 3258 3257 3260  #BT provinces replaced by vanilla in 1.23 - Caucasus
+	
+	#Shattered Europa
+	6660
 }
    
 asia = {

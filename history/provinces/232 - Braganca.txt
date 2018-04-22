@@ -22,7 +22,7 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 
-1444.11.21 = { add_core = LON remove_core = POR owner = LON add_local_autonomy = 0 }
+1444.11.12 = { add_core = LON remove_core = POR owner = LON add_local_autonomy = 0 }
 1444.11.31 = { remove_core = LON add_core = POR owner = POR add_local_autonomy = -30 }
 
 1540.1.1 = {

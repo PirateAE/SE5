@@ -1,6 +1,6 @@
 government = tribal_kingdom
 government_rank = 1
-primary_culture = berber
+primary_culture = kabylian
 religion = sunni
 technology_group = muslim
 capital = 339	# Kabylia

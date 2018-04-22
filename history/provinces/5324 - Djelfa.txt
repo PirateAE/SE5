@@ -19,6 +19,8 @@ discovered_by = ottoman
 discovered_by = western
 discovered_by = eastern
 
+1444.11.12 = { remove_core = TLC owner = WNS add_local_autonomy = 0 }
+1444.11.31 = { add_core = TLC owner = TLC add_local_autonomy = 0 }
 
 1512.1.1 = {
 	owner = WNS

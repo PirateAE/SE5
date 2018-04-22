@@ -18,6 +18,8 @@ discovered_by = ottoman
 discovered_by = western
 discovered_by = eastern
 
+1444.11.12 = { remove_core = TUN add_core = TRP owner = TRP add_local_autonomy = 0 }
+1444.11.31 = { add_core = TUN remove_core = TRP owner = TUN add_local_autonomy = 0 }
 
 1491.1.1 = {
 	base_tax = 2

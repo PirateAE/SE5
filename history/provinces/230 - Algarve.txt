@@ -7,7 +7,7 @@ controller = POR
 culture = portugese
 religion = catholic
 capital = "Faro"
-trade_goods = fish
+trade_goods = sugar
 hre = no
 base_tax = 4
 base_production = 4
@@ -19,6 +19,9 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
+
+1444.11.12 = { culture = andalusi_culture religion = sunni remove_core = POR add_core = SEV owner = SEV add_local_autonomy = 0 }
+1444.11.31 = { culture = portugese religion = catholic add_core = POR remove_core = SEV owner = POR add_local_autonomy = -30 }
 
 1640.1.1 = { unrest = 8 } # Revolt headed by John of Bragança
 1640.12.1 = { unrest = 0 }

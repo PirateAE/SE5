@@ -6,6 +6,7 @@
  VLG_ADJ:0 "Vologdan"
  MCM:0 "MacCarthy"#Byt tag, apparently added by PDX in place of DSM DeasMhumhain... search isnt finding it
  MCM_ADJ:0 "MacCarthian"
+ ## EUROPE ##
  #England
  DUB: "Dublin"
  DUB_ADJ: "Dubliner"
@@ -34,3 +35,24 @@
  ANJ_ADJ: "Anjou"
  PRI: "Paris"
  PRI_ADJ: "Parisian"
+ #Iberia
+ ACR: "Algeciras"
+ ACR_ADJ: "Algeciran"
+ ADR: "Andorra"
+ ADR_ADJ: "Andorran"
+ ATR: "Asturias"
+ ATR_ADJ: "Asturian"
+ BAJ: "Alentejo"
+ BAJ_ADJ: "Alentejano"
+ BDJ: "Badajoz"
+ BDJ_ADJ: "Badajoz"
+ CDB: "Córdoba"
+ CDB_ADJ: "Córdoban"
+ CNT: "Cantabria"
+ CNT_ADJ: "Cantabrian"
+ MCN: "Macaronesia"
+ MCN_ADJ: "Macaronesian"
+ SEV: "Sevilla"
+ SEV_ADJ: "Sevillan"
+ TOL: "Toledo"
+ TOL_ADJ: "Toledan"

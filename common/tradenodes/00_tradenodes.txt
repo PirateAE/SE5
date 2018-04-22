@@ -2325,6 +2325,7 @@ barcelona={
 	members={
 		1295 197 200 211 212 213 214 220 333 1750 2753 2987 2988 2990 3094 3095 5095 5098 196 198 3084 
 		4154			#Wastelands
+		6660			# Shattered Europa
 	} #22 provinces
 }
 napoli={

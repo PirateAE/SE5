@@ -7,7 +7,7 @@ controller = POR
 culture = portugese
 religion = catholic
 capital = "Setúbal"
-trade_goods = fish
+trade_goods = marble
 hre = no
 base_tax = 3
 base_production = 3
@@ -19,6 +19,9 @@ discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
+
+1444.11.12 = { remove_core = POR add_core = BAJ owner = BAJ culture = andalusi_culture religion = sunni add_local_autonomy = 0 }
+1444.11.31 = { add_core = POR remove_core = BAJ owner = POR culture = portugese religion = catholic add_local_autonomy = -30 }
 
 1640.1.1 = { unrest = 8 } # Revolt headed by John of Bragança
 1640.12.1 = { unrest = 0 }

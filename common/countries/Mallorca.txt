@@ -4,7 +4,7 @@
 
 graphical_culture = westerngfx
 
-color = { 212  221  78 }			#Weird looking yellow
+color = { 139 208 255 }
 
 historical_idea_groups = {
 	trade_ideas
@@ -101,4 +101,8 @@ ship_names = {
 	Temerària "Verge de les Neus" "Jaume el Conqueridor" Mart Alerta Ceres
 	Sorpresa Empordà Catalunya "Roger de Flor" "Roger de Llúria"
 	"La Garsa"
+}
+
+army_names = {
+	"Terç de $PROVINCE$"
 }

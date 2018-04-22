@@ -223,10 +223,7 @@ SPA_ideas = {
 	}
 	
 	trigger = {
-		OR = {
-			tag = SPA
-			tag = CAS
-		}
+		primary_culture = castillian
 	}
 	free = yes		#will be added at load.
 
@@ -358,7 +355,7 @@ FRA_ideas = {
 	trigger = {
 		OR = {
 			tag = FRA
-			tag = PRS
+			tag = PRI
 		}
 	}
 	free = yes		#will be added at load.
@@ -2014,7 +2011,7 @@ GRA_ideas = {
 	}
 	
 	trigger = {
-		tag = GRA
+		primary_culture = andalusi_culture
 	}
 	free = yes
 	
@@ -7216,7 +7213,7 @@ LON_ideas = {
 	}
 	
 	trigger = {
-		tag = LON
+		primary_culture = leonese
 	}
 	free = yes
 	

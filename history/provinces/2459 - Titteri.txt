@@ -5,7 +5,7 @@ controller = TLC
 culture = tunisian
 religion = sunni
 capital = "Médéa"
-trade_goods = grain
+trade_goods = barley
 hre = no
 base_tax = 1
 base_production = 1
@@ -21,6 +21,8 @@ discovered_by = ottoman
 discovered_by = western
 discovered_by = eastern
 
+1444.11.12 = { remove_core = TLC owner = ALG add_local_autonomy = 0 }
+1444.11.31 = { add_core = TLC owner = TLC add_local_autonomy = 0 }
 
 1517.1.1 = {
 	owner = ALG
