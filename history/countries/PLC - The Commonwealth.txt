@@ -102,6 +102,19 @@ capital = 262 # Krakow
 	add_ruler_personality = conqueror_personality
 }
 
+1589.1.1 = {
+	leader = {
+		name = "Jan Sapieha"
+		type = general
+
+		fire = 2
+		shock = 2
+		manuever = 3
+		siege = 1
+		death_date = 1611.1.1
+	}
+}
+
 1592.5.31 = {
 	queen = {
 		country_of_origin = HAB
@@ -113,18 +126,6 @@ capital = 262 # Krakow
 		adm = 0
 		dip = 0
 		mil = 0
-	}
-}
-
-1589.1.1 = {
-	leader = {
-		name = "Jan Sapieha"
-		type = general
-		fire = 2
-		shock = 2
-		manuever = 3
-		siege = 1
-		death_date = 1611.1.1
 	}
 }
 
@@ -527,20 +528,6 @@ capital = 262 # Krakow
 	}
 }
 
-1697.6.27 = {
-	monarch = {
-		name = "August II Mocny"
-		culture = saxon
-		dynasty = "von Wettin"
-		birth_date = 1670.5.12
-		adm = 2
-		dip = 1
-		mil = 0
-	}
-	clear_scripted_personalities = yes
-	add_ruler_personality = drunkard_personality
-}
-
 1694.4.27 = {
 	queen = {
 		country_of_origin = BAV
@@ -553,6 +540,20 @@ capital = 262 # Krakow
 		dip = 0
 		mil = 0
 	}
+}
+
+1697.6.27 = {
+	monarch = {
+		name = "August II Mocny"
+		culture = saxon
+		dynasty = "von Wettin"
+		birth_date = 1670.5.12
+		adm = 2
+		dip = 1
+		mil = 0
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = drunkard_personality
 }
 
 1700.1.1 = {

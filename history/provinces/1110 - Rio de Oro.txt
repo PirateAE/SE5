@@ -61,6 +61,12 @@ discovered_by = ottoman
 	base_manpower = 2
 }	#In the 17th century, during the reign of the Berber dynasty of Tazeroualt, Agadir was a harbour of some importance, expanding its trade with Europe.
 
+1639.1.1 = {
+	base_tax = 1
+	base_production = 1
+	base_manpower = 1
+}	#This decline lasted a century and a half. In 1789, a European traveler gave a brief description of Agadir -It is now a ghost town, there are no more than a few houses and these are crumbling into ruins.
+
 1670.1.1 = {
 	owner = MOR
 	controller = MOR
@@ -74,10 +80,3 @@ discovered_by = ottoman
 	base_tax = 2
 	base_production = 2
 } #Mogador or Essaouira built, Sultan Mohammed ben Abdallah banned foreign trade in all Moroccan ports except in his newly built city. Agadir hit esspecially hard
-
-1613.1.1 = {
-	base_tax = 1
-	base_production = 1
-	base_manpower = 1
-}	#This decline lasted a century and a half. In 1789, a European traveler gave a brief description of Agadir -It is now a ghost town, there are no more than a few houses and these are crumbling into ruins.
-

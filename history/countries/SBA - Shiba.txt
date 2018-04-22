@@ -58,7 +58,6 @@ capital = 1023	# Echizen
 		name = "Yoshishige" 
 		dynasty = "Shiba"
 		birth_date = 1371.1.1
-		death_date = 1418.9.10
 		adm = 3
 		dip = 3
 		mil = 3
@@ -84,7 +83,6 @@ capital = 1023	# Echizen
 		name = "Yoshiatsu" 
 		dynasty = "Shiba"
 		birth_date = 1397.1.1
-		death_date = 1434.1.11
 		adm = 2
 		dip = 2
 		mil = 2
@@ -163,10 +161,6 @@ capital = 1023	# Echizen
 	}
 }
 
-1471.7.1 = {
-	capital = 1025 #Uzen # The Shiba clan acturally turns (in game) into it's sub-branch Mogami
-}
-
 1471.1.1 = {
 	monarch = {
 		name = "Yoshiharu" 
@@ -189,6 +183,10 @@ capital = 1023	# Echizen
 		dip = 3
 		mil = 3
 	}
+}
+
+1471.7.1 = {
+	capital = 1025 #Uzen # The Shiba clan acturally turns (in game) into it's sub-branch Mogami
 }
 
 1474.4.7 = {
