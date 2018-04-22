@@ -4,20 +4,20 @@
 alliance = {
 	first = OJI
 	second = OTT
-	start_date = 1444.11.12 #shattered
+	start_date = 796.1.1
 	end_date = 1836.1.1
 }
 
 alliance = {
 	first = OJI
 	second = POT
-	start_date = 1444.11.12 #shattered
+	start_date = 796.1.1
 	end_date = 1815.1.1		#Last of POT gobbled up by the USA
 }
 
 alliance = {
 	first = OTT
 	second = POT
-	start_date = 1444.11.12 #shattered
+	start_date = 796.1.1
 	end_date = 1815.1.1		#Last of POT gobbled up by the USA
 }

@@ -2,8 +2,8 @@
 #Region - France
 #Area - Seine
 
-owner = PRI
-controller = PRI
+owner = FRA
+controller = FRA
 capital = "Chartres"
 is_city = yes
 culture = cosmopolitan_french
@@ -13,18 +13,18 @@ base_tax = 3
 base_production = 3
 trade_goods = grain
 base_manpower = 2
-add_core = PRI
+add_core = FRA
 
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 
-1444.11.12 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-}
+1417.1.1 = { controller = ENG } # Captured by the English
+1432.1.1 = { controller = FRA } # Retaken by Charles VII
+
+1444.11.12 = { remove_core = FRA add_core = PRS owner = PRS add_local_autonomy = 0 }
+1444.11.31 = { add_core = FRA owner = FRA add_local_autonomy = -30 }
 
 1560.1.1 = { religion = reformed }
 1562.3.1 = { unrest = 5 }

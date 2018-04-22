@@ -2,8 +2,8 @@
 #Region - France
 #Area - Seine
 
-owner = PRI
-controller = PRI
+owner = FRA
+controller = FRA
 capital = "Paris"
 is_city = yes
 culture = cosmopolitan_french
@@ -13,7 +13,7 @@ base_tax = 11
 base_production = 11
 trade_goods = cloth
 base_manpower = 10
-add_core = PRI
+add_core = FRA
 
 
 
@@ -31,11 +31,11 @@ add_permanent_province_modifier = {
 	duration = -1
 }
 
-1444.11.12 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-}
+1420.1.1 = { controller = ENG } # Captured by the English
+1437.1.1 = { controller = FRA } # Retaken by Charles VII
+
+1444.11.12 = { remove_core = FRA add_core = PRS owner = PRS }
+1444.11.31 = { add_core = FRA owner = FRA }
 
 1571.1.1 = { unrest = 5 } # Unrest spreads in catholic territory: massacres of protestants in Rouen, Orange & Paris
 1573.8.23 = { unrest = 10 } # Saint Barthelew's Day Massacre

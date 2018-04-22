@@ -2,7 +2,7 @@
 
 culture = maiduan
 religion = totemism 
-capital = "CapitalCity" 
+capital = "Cullumah" 
 trade_goods = unknown
 hre = no 
 base_tax = 1 
@@ -15,3 +15,5 @@ native_hostileness = 3
 discovered_by = north_american
 
 
+1826.1.1 = { discovered_by = USA } #Jediah Smith
+#Californian Gold Rush began here around Coloma (Sutter's Mill)

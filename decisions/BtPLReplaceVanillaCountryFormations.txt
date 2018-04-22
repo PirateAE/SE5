@@ -1017,7 +1017,7 @@ country_decisions = {
 ###################################################################################################
 ################################			Iceland			 ##############################################
 ###################################################################################################
-	hannoverian_nation = {
+	icelandic_nation = {
 		major = yes
 		potential = {
 			bt_generic_can_form_potential_check = yes
@@ -1698,7 +1698,7 @@ country_decisions = {
 				owns_core_province = 43		# Danzig
 				owns_core_province = 2995	# Stolp
 			}
-			total_development = 150			#Normal requirement for rank 2 is 300 dev, so this is 50 percent discounted.
+			total_development = 100			#Normal requirement for rank 2 is 300 dev, so this is 67 percent discounted
 			prestige = 25			#Normal requirement for rank 2 is 50 prestige, so this is 50 percent discounted
 		}
 		effect = {
@@ -1797,7 +1797,7 @@ country_decisions = {
 				owns_core_province = 43		# Danzig
 				owns_core_province = 2995	# Stolp
 			}
-			total_development = 150			#Normal requirement for rank 2 is 300 dev, so this is 50 percent discounted.
+			total_development = 100			#Normal requirement for rank 2 is 300 dev, so this is 67 percent discounted
 			prestige = 25			#Normal requirement for rank 2 is 50 prestige, so this is 50 percent discounted
 		}
 		effect = {
@@ -1893,7 +1893,7 @@ country_decisions = {
 			owns_core_province = 41			# Königsberg
 			owns_core_province = 43		# Danzig
 			owns_core_province = 2995	# Stolp
-			total_development = 150			#Normal requirement for rank 2 is 300 dev, so this is 50 percent discounted.
+			total_development = 100			#Normal requirement for rank 2 is 300 dev, so this is 67 percent discounted
 			prestige = 25			#Normal requirement for rank 2 is 50 prestige, so this is 50 percent discounted
 		}
 		effect = {
@@ -1959,7 +1959,7 @@ country_decisions = {
 ###################################################################################################
 ################################			Romania			 ##############################################			#Note needs work
 ###################################################################################################
-	prussian_nation_general = {
+	romanian_nation = {
 		major = yes
 		potential = {
 			bt_generic_can_form_potential_check = yes
@@ -2467,7 +2467,7 @@ country_decisions = {
 ###################################################################################################
 ################################			Scotland			 ##############################################
 ###################################################################################################
-	btpl_scottish_nation = {
+	scottish_nation = {			#Formerly BT only btpl_scottish_nation, which still has a localisation
 		major = yes
 		potential = {
 			bt_generic_can_form_potential_check = yes

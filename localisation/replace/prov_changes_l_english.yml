@@ -149,24 +149,24 @@
  PROV502:0 "Iëre"
  PROV774:0 "Geneina"
  PROV789:0 "Eswatini"
- PROV833:0 "Placeholder833"
+ PROV833:0 "Graaf-Reinet"           #ERROR - Graaf Reinet, naming being problematic.
  PROV859:0 "Sinaloa"            #Actually the same as vanilla, but adding here anyway to prevent changes with vanilla
  PROV862:0 "Opata"
  PROV865:0 "Cochimí"
- PROV867:0 "Íviluqaletem"
+ PROV867:0 "Xalychidom"         #Actually the Maricopa name for them, which they currently use, but presumably they also once had an autonym. Might look for it one of these days.
  PROV869:0 "Te'po'ta'ahl"
  PROV870:0 "Yatchicumne"
  PROV872:0 "Lakmayut"           #Is this anglicised?
  PROV873:0 "Tlät'cap"           #Clatsop
  PROV874:0 "Xacuabsh"
  PROV875:0 "Hopi"
- PROV876:0 "Piipaash"
+ PROV876:0 "On'k Akimel O'odham"
  PROV877:0 "O'odham"
  PROV878:0 "Totah"
- PROV879:0 "Dilzhé'e"
- PROV880:0 "Tiwesh"         #BT made up based on phonectics, would love a better (non-Hispanified) alternative
+ PROV879:0 "Dzil Ligai Si'án Ndee"
+ PROV880:0 "Tewa"
  PROV881:0 "Natahéndé"
- PROV882:0 "Tahuundé"
+ PROV882:0 "Guulgahénde"            #Formerly Tahuundé
  PROV885:0 "Totorame"           #This is clearly Hispanified, need a native version
  PROV904:0 "Wahpéthunwan"
  PROV907:0 "Ihánkthunwan"
@@ -223,9 +223,9 @@
  PROV1110:0 "Agadir"
  PROV1174:0 "Tsoakhaub"
  PROV1175:0 "Gariep"
- PROV1176:0 "Placeholder1176"
+ PROV1176:0 "'Han'ami"
  PROV1177:0 "Goringhaiqua"
- PROV1178:0 "Placeholder1178"
+ PROV1178:0 "Victoria West"           #ERROR - Victoria West, naming being problematic.
  PROV1179:0 "Hessequa"
  PROV1180:0 "Mthatha"
  PROV1181:0 "Umgungundlovu"
@@ -420,7 +420,7 @@
  PROV2474:0 "Murzuq"
  PROV2476:0 "Tipai"
  PROV2477:0 "Natinixwe"
- PROV2478:0 "Nuwa"
+ PROV2478:0 "Nüwa"
  PROV2480:0 "Kahosadi"
  PROV2481:0 "Hanis"         #One of the two main tribes, the other being Miluk
  PROV2482:0 "Mollala"
@@ -432,13 +432,13 @@
  PROV2488:0 "Mamachatpam"           #Yakama autonym
  PROV2489:0 "Koa'aga'itöka"
  PROV2490:0 "Gutsipupiutsi"
- PROV2491:0 "Hwalpai"
- PROV2492:0 "Ch'uuk'anén"
+ PROV2491:0 "Hwálpai"
+ PROV2492:0 "Chíhéne"           #Formerly Ch'uuk'anén
  PROV2493:0 "Shiwinnaqin"
  PROV2494:0 "Chííhénee"
  PROV2495:0 "Haak'u"
  PROV2496:0 "Haisndayin"
- PROV2501:0 "Piikáni"
+ PROV2501:0 "Inuk'sik"
  PROV2502:0 "Cáuiqop"           #Kiowa Mountain. The Gros Ventre didn't make it here for some time (18th century), so Haaninin is more than a bit odd in 1444.
  PROV2503:0 "Binnéessiippeele"         #Vanilla Ashshipite is a modern formation, going with the older one instead
  PROV2503:0 "Eelalapito"
@@ -505,9 +505,9 @@
  PROV2800:0 "Kosti"            #Actually the same as vanilla, but adding here anyway to prevent changes with vanilla
  PROV2801:0 "Ain Farah"
  PROV2802:0 "Daein"         #Poor name, want another
- PROV2856:0 "Placeholder2856"
- PROV2864:0 "Placeholder2864"
- PROV2880:0 "Placeholder2880"
+ PROV2856:0 "Mangaung"         #ERROR - Bantu name in what was probably San (Khoisan) land
+ PROV2864:0 "Kakamas "
+ PROV2880:0 "Griquatown"          #ERROR - Griquatown, naming being problematic.
  #PROV2954:0 "Djerba"            #Actually the same as vanilla, but adding here anyway to prevent changes with vanilla
  PROV2963:0 "Kujawy"
  PROV2986:0 "Cagliari"

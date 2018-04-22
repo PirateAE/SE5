@@ -1,0 +1,15 @@
+#Iberia Region, Its got its capital in the region its here
+ACR = "countries/Algeciras.txt"
+ADR = "countries/Andorra.txt"
+ATR = "countries/Asturias.txt"
+BAJ = "countries/Baja.txt"
+BDJ = "countries/Badajoz.txt"
+CDB = "countries/Cordoba.txt"
+CNT = "countries/Cantabria.txt"
+MCN = "countries/Macaronesia.txt"
+MJC = "countries/Majorca.txt"
+SEV = "countries/Sevilla.txt"
+TOL = "countries/Toledo.txt"
+VAL = "countries/Valencia.txt"
+
+#Formable

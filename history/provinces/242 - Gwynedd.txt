@@ -2,8 +2,8 @@
 #Region - Britain
 #Area - Wales
 
-owner = ENG
-controller = ENG
+owner = WLS
+controller = WLS
 culture = welsh
 religion = catholic
 hre = no
@@ -13,7 +13,6 @@ trade_goods = wool
 base_manpower = 1
 capital = "Caernarfon"
 is_city = yes
-add_core = ENG
 add_core = WLS 
 
 discovered_by = western
@@ -25,8 +24,6 @@ discovered_by = eastern
 1400.9.16 = { revolt = { type = nationalist_rebels size = 1 } controller = REB } # The Welsh Revolt
 1415.1.1 = { unrest = 0 revolt = {} controller = ENG } # English rule is restored
 
-1444.11.12 = { remove_core = ENG owner = WLS }
-
 1444.11.16 = { #BeyondTypus batch edit shortcut no vassal start date begin
 	owner = ENG
 	controller = ENG
@@ -37,9 +34,6 @@ discovered_by = eastern
 	controller = WLS
 	remove_core = ENG
 }
-
-1444.11.31 = { add_core = ENG owner = ENG add_local_autonomy = -15 }
-
 1453.1.1 = { unrest = 5 } # Start of the War of the Roses
 1461.6.1 = { unrest = 0 revolt = { type = revolutionary_rebels size = 2 leader = "Henry of Lancaster" } controller = REB } # Lancastrian Holdouts after Coronation of Edward IV
 1467.1.1 = { revolt = {} unrest = 5 } # Rivalry between Edward IV & Warwick

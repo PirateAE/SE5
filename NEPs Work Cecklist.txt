@@ -10,8 +10,10 @@ Britian & North Sea
 France
 	Ideas - Added All
 		Needs localization
-	Trade Goods - NOT DONE
+	Trade Goods - initial implemenation
+		need to compare to vanilla and old SE
 	Nation History - NOT DONE
+		Need to fix rulers and vassals
 	
 Spain
 	Ideas - NOT DONE

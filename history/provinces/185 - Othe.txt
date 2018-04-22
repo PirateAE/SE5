@@ -4,7 +4,6 @@
 
 owner = FRA
 controller = FRA
-add_core = FRA
 capital = "Nemours"
 is_city = yes
 culture = cosmopolitan_french
@@ -16,6 +15,7 @@ trade_goods = barley
 base_manpower = 2
 estate = estate_church
 add_core = CHP
+add_core = FRA
 
 discovered_by = western
 discovered_by = muslim

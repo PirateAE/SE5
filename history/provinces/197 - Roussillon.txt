@@ -16,6 +16,7 @@ trade_goods = wine
 base_manpower = 2
 add_core = ARA
 add_core = TOU
+add_core = MJC
 estate = estate_nobles
 #fort_15th = yes			#Draiocht removed fort. Aragon was losing too much money and there are already 2 forts right next to Roussillon
 
@@ -28,6 +29,15 @@ discovered_by = eastern
 1399.1.1 = { add_core = FOI }
 1412.6.29 = { revolt = { type = pretender_rebels size = 1 leader = "Jaume d'Urgell"} controller = REB } # Jaime de Urgell Uprising
 1413.1.1 = { revolt = {} controller = ARA }
+
+1444.11.12 = { remove_core = ARA remove_core = CAT remove_core = TOU owner = MJC add_local_autonomy = 0 }
+1444.11.31 = { add_core = ARA add_core = CAT add_core = TOU owner = ARA add_local_autonomy = 0
+	add_permanent_province_modifier = {
+		name = crown_of_aragon_minors_catalonia
+		duration = -1
+	}
+}
+
 1462.1.1 = { owner = FRA controller = FRA } # Treaty of Bayonne: Aragon sells Roussillon to France
 1493.1.19 = { owner = ARA controller = ARA } # Treaty of Barcelona: Charles VIII restores Roussillon to Aragon
 1516.1.23 = {

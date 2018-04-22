@@ -11,7 +11,7 @@ religion = catholic
 hre = no
 base_tax = 3 
 base_production = 3
-trade_goods = fish
+trade_goods = livestock
 base_manpower = 2
 add_core = FRA
 fort_15th = yes
@@ -21,11 +21,11 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 
-1444.11.12 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-}
+1398.1.1 = { add_core = AUV }
+1416.3.15 = { owner = FRA controller = FRA } # Death of Jean de Valois
+
+1444.11.12 = { remove_core = FRA owner = AUV add_local_autonomy = -7 }
+1444.11.31 = { add_core = FRA owner = FRA add_local_autonomy = 4 }
 
 1560.1.1 = { religion = reformed }
 1565.1.1 = { unrest = 8 } # France is restless once again as ultra-catholic intentions become clear

@@ -17,7 +17,7 @@ discovered_by = north_american
 #discovered_by = bt_northwest_tech
 
 
-1826.1.1 = { discovered_by = SPA } #Ogden
+1826.1.1 = { discovered_by = GBR } #Ogden
 #Americans by 1840s
 
 #Linkville founded 1867 then changed to Klamath Falls.

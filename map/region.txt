@@ -395,7 +395,6 @@ mashriq_region = {
 		aleppo_area
 		syrian_desert_area			#Repurposed to Sinai
 		trans_jordan_area
-		syrian_desert_area
 		#BTADDITIONS
 		cyprus_area
 		tripoli_area

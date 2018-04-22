@@ -5,7 +5,7 @@ religion = totemism
 capital = "En-'ne-sen" 
 trade_goods = unknown 
 hre = no 
-base_tax = 1 
+base_tax = 1 			#Note in 2021
 base_production = 1
 base_manpower = 1 
 native_size = 10
@@ -30,29 +30,21 @@ discovered_by = north_american
 	trade_goods = unknown
 }
 1542.1.1 = { discovered_by = SPA } # Juan Rodriguez Cabrillo
-1770.1.1 = {
+1771.7.14 = {
 	owner = SPA
 	controller = SPA
 	add_core = SPA
-	capital = "Monterrey"
+	capital = "San Antonio"
 	is_city = yes
-	trade_goods = wool 
-	base_tax = 2
-	base_production = 2
-	base_manpower = 1
-} # Don Gaspar de Portolá
-1795.1.1 = {
+	trade_goods = fish 
 	culture = castillian
 	religion = catholic
-	base_tax = 3
-	base_production = 3
-	base_manpower = 1
-}
+}	#Father Presidente Junípero Serra founds Mission San Antonio de Padua
+1791.10.9 = {
+	capital = "Soledad"
+}	#Mission Mission Nuestra Senora de la Soledad
 1810.9.16 = { 
 	owner = MEX 
 	add_core = MEX 
-	controller = SPA
-	base_tax = 2
-	base_production = 2
-	base_manpower = 1
+	controller = MEX
 } # Mexican War of Independence
