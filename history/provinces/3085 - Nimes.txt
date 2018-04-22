@@ -2,8 +2,8 @@
 #Region - France
 #Area - Languedoc
 
-owner = AVI #Temp majoria isn't in code yet
-controller = AVI
+owner = FRA
+controller = FRA
 capital = "Nimes"
 is_city = yes
 culture = occitain
@@ -11,22 +11,24 @@ religion = catholic
 hre = no
 base_tax = 3
 base_production = 3
-trade_goods = fish
+trade_goods = livestock
 base_manpower = 2
-add_core = AVI
+add_core = FRA
 add_core = TOU
 
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
+extra_cost = 10
 
-1444.11.12 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-	remove_core = AVI
+add_permanent_province_modifier = {
+	name = rhone_estuary_modifier
+	duration = -1
 }
+
+1444.11.12 = { remove_core = FRA add_core = MJC owner = MJC add_local_autonomy = -5 }
+1444.11.31 = { add_core = FRA owner = FRA add_local_autonomy = 3 }
 
 
 1560.1.1 = { religion = reformed }

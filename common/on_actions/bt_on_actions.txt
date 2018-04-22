@@ -1,4 +1,39 @@
 
+on_startup = {
+	#Apparently, the below vanilla code must be included in the on_startup of any mod added on_action file, else problems arise with CoC content.... absolutely bizarre, but what can one do? Better safe than sorry.
+	events = {
+		muslim_school_events.20 #Pick School
+	}
+	if = {
+		limit = {
+			has_dlc = "Cradle of Civilization"
+			has_country_modifier = tur_janissary
+		}
+		remove_country_modifier = tur_janissary
+	}
+	initialize_schools_effect = yes #This is only used here but is used for readability of on_action file.
+	#Apparently, the above vanilla code must be included in the on_startup of any mod added on_action file, else problems arise with CoC content.... absolutely bizarre, but what can one do? Better safe than sorry.
+	#New for better addon support
+	set_global_flag = beyond_typus_mod_enabled
+	#Fixing 9.0.0 errors, can delete for 10.0.
+	118 = {
+		remove_province_modifier = religious_center
+		add_province_triggered_modifier = religious_center
+		add_province_triggered_modifier = non_catholic_rome
+	}
+	280 = { remove_province_modifier = religious_center }
+	358 = { add_province_triggered_modifier = coptic_alexandria }
+	379 = { add_province_triggered_modifier = jerusalem_held }
+	385 = {
+		remove_province_modifier = religious_center
+		add_province_triggered_modifier = religious_center
+		add_province_triggered_modifier = christian_mecca
+	}
+	1234 = { remove_province_modifier = religious_center }
+}
+
+####
+####
 
 # country 
 on_new_monarch = {

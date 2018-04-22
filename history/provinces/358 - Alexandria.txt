@@ -24,6 +24,7 @@ discovered_by = nomad_group
 discovered_by = indian
 discovered_by = east_african
 
+add_province_triggered_modifier = coptic_alexandria
 #CoT moved to Rosetta
 
 #1477.1.1 = { } #Citadel of Qaitbay

@@ -2,17 +2,18 @@
 #Region - France
 #Area - Massif Central
 
-owner = AMG
-controller = AMG
+owner = FRA
+controller = FRA
 capital = "Guéret"
 is_city = yes
-culture = occitain	#aquitaine vanilla
+culture = gascon
 religion = catholic
 hre = no
 base_tax = 2
 base_production = 1
-trade_goods = livestock
+trade_goods = grain
 base_manpower = 1
+add_core = FRA
 add_core = AMG
 add_core = GUY
 
@@ -21,11 +22,8 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 
-1444.11.12 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-}
+1444.11.12 = { remove_core = FRA remove_core = GUY owner = AMG add_local_autonomy = 0  }
+1444.11.31 = { add_core = FRA add_core = GUY owner = FRA add_local_autonomy = 0 }
 
 1560.1.1 = { religion = reformed }
 1565.1.1 = { unrest = 8 } # France is restless once again as ultra-catholic intentions become clear

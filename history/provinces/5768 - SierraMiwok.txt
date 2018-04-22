@@ -2,7 +2,7 @@
 
 culture = utian
 religion = totemism 
-capital = "CapitalCity" 
+capital = "Kasumati" 
 trade_goods = unknown
 hre = no 
 base_tax = 1 
@@ -15,3 +15,5 @@ native_hostileness = 3
 discovered_by = north_american
 
 
+1806.1.1 = { discovered_by = SPA } # Not sure who? But apparently discovered?
+#Aqua Fria, later Mariposa, founded 1840

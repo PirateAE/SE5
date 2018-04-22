@@ -6,7 +6,7 @@
 march = {
 	first = ENG
 	second = KOI
-	start_date = 1444.11.12 #shattered
+	start_date = 1444.1.1
 	end_date = 1444.11.16   #BeyondTypus batch edit shortcut no vassal start date begin
 }
 
@@ -41,7 +41,7 @@ vassal = {
 vassal = {
 	first = SWI
 	second = BSL
-	start_date = 1444.11.12 #shattered
+	start_date = 1444.1.1
 	end_date = 1444.11.16   #BeyondTypus batch edit shortcut no vassal start date begin
 }
 
@@ -55,7 +55,7 @@ vassal = {
 vassal = {
 	first = SWI
 	second = ZND
-	start_date = 1444.11.12 #shattered
+	start_date = 1444.1.1
 	end_date = 1444.11.16   #BeyondTypus batch edit shortcut no vassal start date begin
 }
 
@@ -71,7 +71,7 @@ vassal = {
 vassal = {
 	first = BUR
 	second = CMB
-	start_date = 1444.11.12 #shattered
+	start_date = 1444.1.1
 	end_date = 1444.11.16   #BeyondTypus batch edit shortcut no vassal start date begin
 }
 
@@ -101,7 +101,7 @@ vassal = {
 vassal = {
 	first = DAN
 	second = ICE
-	start_date = 1444.11.12 #shattered
+	start_date = 1444.1.1
 	end_date = 1444.11.16   #BeyondTypus batch edit shortcut no vassal start date begin
 }
 
@@ -117,7 +117,7 @@ vassal = {
 vassal = {
 	first = BYZ
 	second = LES
-	start_date = 1444.11.12 #shattered
+	start_date = 1444.1.1
 	end_date = 1444.11.16   #BeyondTypus batch edit shortcut no vassal start date begin
 }
 
@@ -133,14 +133,14 @@ vassal = {
 union = {
 	first = MUN
 	second = OSN
-	start_date = 1444.11.12 #shattered
+	start_date = 1442.1.1
 	end_date = 1450.6.3
 }
 
 union = {
 	first = KOL
 	second = PDB
-	start_date = 1444.11.12 #shattered #1415.1.1
+	start_date = 1415.1.1
 	end_date = 1463.2.14
 }
 
@@ -149,7 +149,7 @@ union = {
 vassal = {
 	first = LIV
 	second = KUR
-	start_date = 1444.11.12 #1435.12.4 
+	start_date = 1435.12.4
 	end_date = 1444.11.16   #BeyondTypus batch edit shortcut no vassal start date begin
 }
 
@@ -163,7 +163,7 @@ vassal = {
 vassal = {
 	first = LIV
 	second = OSL
-	start_date = 1444.11.12 #1435.12.4 
+	start_date = 1435.12.4
 	end_date = 1444.11.16   #BeyondTypus batch edit shortcut no vassal start date begin
 }
 
@@ -177,7 +177,7 @@ vassal = {
 vassal = {
 	first = LIV
 	second = DRP
-	start_date = 1444.11.12 #1435.12.4 
+	start_date = 1435.12.4
 	end_date = 1444.11.16   #BeyondTypus batch edit shortcut no vassal start date begin
 }
 
@@ -191,7 +191,7 @@ vassal = {
 vassal = {
 	first = LIV
 	second = RIG
-	start_date = 1444.11.12 #1435.12.4 
+	start_date = 1435.12.4
 	end_date = 1444.11.16   #BeyondTypus batch edit shortcut no vassal start date begin
 }
 

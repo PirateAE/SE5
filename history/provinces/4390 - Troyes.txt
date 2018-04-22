@@ -4,7 +4,6 @@
 
 owner = FRA
 controller = FRA
-add_core = FRA
 capital = "Troyes"
 is_city = yes
 culture = cosmopolitan_french
@@ -15,6 +14,7 @@ base_production = 3
 trade_goods = paper
 base_manpower = 2
 add_core = CHP
+add_core = FRA
 
 discovered_by = western
 discovered_by = muslim
@@ -26,7 +26,6 @@ discovered_by = eastern
 
 1444.11.12 = { remove_core = FRA owner = CHP add_local_autonomy = -15 }
 1444.11.31 = { add_core = FRA owner = FRA }
-
 
 1466.2.10 = { add_core = BUR } # Treaty of Conflans, Champagne is promised to Charles the Bold as dowry
 1477.1.5 = { remove_core = BUR } # Charles the Bold dies

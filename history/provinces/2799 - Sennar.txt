@@ -24,8 +24,7 @@ discovered_by = muslim
 	controller = NUB
 	add_core = NUB
 	discovered_by = NUB
-}
- #Establishment of the Funj Sultanate
+} #Establishment of the Funj Sultanate
 1523.1.1 = { religion = sunni } #Funj sultans declare Islam state religion
 1565.1.1 = { unrest = 8 } #Shaykh Ajib launches invasion of Funj heartland
 1566.1.1 = { unrest = 0 } #Shaykh Ajib forces Funj out of Sennar

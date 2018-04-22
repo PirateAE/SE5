@@ -2,8 +2,8 @@
 #Region - France
 #Area - Normandy
 
-owner = NRM
-controller = NRM
+owner = FRA
+controller = FRA
 capital = "Rouen"
 is_city = yes
 estate = estate_burghers
@@ -14,8 +14,9 @@ base_tax = 4
 base_production = 4
 trade_goods = glass
 base_manpower = 3
-add_core = NRM
 add_core = FRA
+add_core = NRM
+
 
 
 discovered_by = eastern

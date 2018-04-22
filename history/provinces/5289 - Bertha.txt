@@ -21,6 +21,8 @@ discovered_by = east_african
 	controller = NUB
 	add_core = NUB
 	discovered_by = NUB
+	is_city = yes
+	trade_goods = livestock
 } #Establishment of the Funj Sultanate
 1565.1.1 = { unrest = 8 } #Shaykh Ajib launches invasion of Funj heartland
 1566.1.1 = { unrest = 0 } #Shaykh Ajib forces Funj out of Sennar

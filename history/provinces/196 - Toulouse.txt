@@ -2,31 +2,33 @@
 #Region - France
 #Area - Languedoc
 
-owner = TOU
-controller = TOU
+owner = FRA
+controller = FRA
 capital = "Toulouse"
 is_city = yes
-culture = occitain	#aquitaine vanilla
+culture = gascon
 religion = catholic
 hre = no
 base_tax = 6
 base_production = 6
-trade_goods = wine
+trade_goods = woad
 base_manpower = 5
 add_core = FRA
+add_core = TOU
+add_core = GUY
+
+add_permanent_province_modifier = {
+	name = woad_trade
+	duration = -1
+}
 
 discovered_by = western
 discovered_by = muslim
 discovered_by = ottoman
 discovered_by = eastern
 
-1444.11.12 = {
-	owner = FRA
-	controller = FRA
-	add_core = FRA
-	add_core = TOU
-	add_core = GUY
-}
+1444.11.12 = { remove_core = FRA remove_core = GUY owner = TOU add_local_autonomy = 0 }
+1444.11.31 = { add_core = FRA add_core = GUY owner = FRA add_local_autonomy = 0 }
 
 1560.1.1 = { religion = reformed }
 1565.1.1 = { unrest = 8 } # France is restless once again as ultra-catholic intentions become clear
