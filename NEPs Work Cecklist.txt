@@ -32,7 +32,7 @@ North Africa
 		Need to fix rulers and vassals
 
 Italy
-	Ideas - Added All
+	Ideas - Need to add
 		Needs localization
 	Trade Goods - initial implemenation
 		need to compare to vanilla and old SE
@@ -40,6 +40,9 @@ Italy
 		Need to fix rulers and vassals
 
 
+Wastelands
+	need to add to right catagories - too lazy atm
+		
 General objectives
 	Idea veration add -> PirateAE
 		Buildings unsure how/what im doing

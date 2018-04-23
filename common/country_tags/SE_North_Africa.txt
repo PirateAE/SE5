@@ -1,0 +1,6 @@
+#North Africa
+CYR = "countries/Cyrenaica.txt"
+#FAF = "countries/Farafra.txt"
+PAX = "countries/Alexandria.txt"
+SAI = "countries/Saidi.txt"
+TEM = countries/KnightsTemplar.txt

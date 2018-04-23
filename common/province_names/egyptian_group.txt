@@ -25,10 +25,8 @@
 5267 = "Pemdje"
 4320 = "Tine"
 4323 = "Ne"
-#4321 = "Attia"			#No localised Coptic naming outside of Nile Egypt
 #5271 = "Baranis"			#No localised Coptic naming outside of Nile Egypt
 #5272 = "Matrouh"			#No localised Coptic naming outside of Nile Egypt
 5273 = "Sekhetam"
 5275 = "Balat"
-4322 = "Balhmoou"
 5278 = "Piwek"			#Unconfirmed

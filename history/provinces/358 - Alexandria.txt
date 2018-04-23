@@ -5,7 +5,7 @@ controller = MAM
 culture = coptic_culture
 religion = coptic
 capital = "Eskendereya"
-trade_goods = fish			#spices in vanilla... what spices? or Even what trade route for others' spices? This was a major port, but the spice trade was elsewhere after Arab conquest
+trade_goods = glass			#spices in vanilla... what spices? or Even what trade route for others' spices? This was a major port, but the spice trade was elsewhere after Arab conquest
 hre = no
 base_tax = 4
 base_production = 4
@@ -14,6 +14,7 @@ is_city = yes
 estate = estate_burghers
 add_core = MAM
 add_core = KEM
+add_core = PAX
 fort_15th = yes
 
 discovered_by = western
@@ -26,6 +27,9 @@ discovered_by = east_african
 
 add_province_triggered_modifier = coptic_alexandria
 #CoT moved to Rosetta
+
+1444.11.12 = { remove_core = MAM remove_core = KEM owner = PAX }
+1444.11.31 = { add_core = MAM add_core = KEM owner = MAM add_local_autonomy = -15 }
 
 #1477.1.1 = { } #Citadel of Qaitbay
 1517.1.1 = {

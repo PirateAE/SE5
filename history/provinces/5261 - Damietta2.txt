@@ -6,7 +6,7 @@ add_core = MAM
 capital = "Dumyat"
 culture = coptic_culture
 religion = coptic
-trade_goods = fish			#famous for furniture (starting when?), cheese, deserts, fish, and one of the main routes to the Indian Ocean before Mamluk era...
+trade_goods = furniture			#famous for furniture (starting when?), cheese, deserts, fish, and one of the main routes to the Indian Ocean before Mamluk era...
 hre = no
 base_tax = 2
 base_production = 2
@@ -24,6 +24,8 @@ discovered_by = nomad_group
 discovered_by = indian
 discovered_by = east_african
 
+1444.11.12 = { remove_core = MAM owner = KEM add_local_autonomy = 0 }
+1444.11.31 = { add_core = MAM owner = MAM add_local_autonomy = 0 }
 
 1517.1.1 = {
 	owner = TUR

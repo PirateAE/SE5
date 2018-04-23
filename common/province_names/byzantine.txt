@@ -190,13 +190,11 @@
 5267 = "Oxyrrhynkhos"
 4320 = "Ptolemaida"			#Or This, or Thinis
 4319 = "Thebai"
-4321 = "Anatoliki Erimo"
 5271 = "Berenike"
 5272 = "Paraitonion"
 5273 = "Ammonion"
 5274 = "Corniclanon"
 4323 = "Mothis"
-4322 = "Blemmyia"
 5278 = "Philai"
 
 #Beyond Typus 7.0 Overhaul of Sudan

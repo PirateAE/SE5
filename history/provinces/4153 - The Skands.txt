@@ -1,1 +1,4 @@
-#New 1.19 Paradox province removed by Draiocht
+#Mountains splitting Norway from Sweden.
+
+discovered_by = eastern
+discovered_by = western

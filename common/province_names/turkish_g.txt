@@ -380,13 +380,11 @@
 5267 = "Beni Suef"
 4320 = "Girga"
 4319 = "Luxor"
-4321 = "Es-Sahra es-Sarqia"
 5271 = "El-Haras"
 5272 = "Matruh"
 5273 = "Siwah"
 5274 = "Agdabiya"
 4323 = "Dakhla"
-4322 = "Wadi Allaqi"
 5278 = "Fila"
 
 #Beyond Typus 7.0 Overhaul of Sudan

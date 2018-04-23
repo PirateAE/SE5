@@ -5,7 +5,7 @@ controller = MAM
 culture = al_suryah_arabic
 religion = sunni
 capital = "Kerak"
-trade_goods = wool				#Pretty dry and poor... going with wool, read livestock
+trade_goods = salt
 hre = no
 base_tax = 1 
 base_production = 1
@@ -21,6 +21,8 @@ discovered_by = nomad_group
 discovered_by = indian
 discovered_by = east_african
 
+1444.11.12 = { add_core = KOJ remove_core = MAM owner = KOJ add_local_autonomy = 0 }
+1444.11.31 = { remove_core = KOJ add_core = MAM owner = MAM add_local_autonomy = 0 }
 
 1516.8.24 = {
 	owner = TUR

@@ -625,8 +625,6 @@
  PROV4318:0 "Busiris"          #Formerly 5265
  PROV4319:0 "Thebes"          #Formerly 5269
  PROV4320:0 "This"         #or Ptolemais, or Chemmis, or Panopolis, or Girga, Formerly 5268
- PROV4321:0 "Attia"          #Formerly 5270
- PROV4322:0 "Ababda"              #Or Blemmyia, Formerly 5276
  PROV4323:0 "Dakhla"          #Formerly 5275
  PROV4340:0 "Talysh"          #Formerly 3257
  
@@ -738,8 +736,6 @@
  #5268 --> 4320 (Girga to Girga) -same thing
  #5269 --> 4319 (Luxor to Isna) -same gist, but different capital... take another look at this but keeping old BT version for now. <----------
  #5275 -- > 4323 (Dakhla to Farafreh) -same gist, same difference.
- #5270 --> 4321 (Eastern Desert --> Eastern Desert) -same thing, note vanilla is now wasteland while BT remains colonisable. It is a borderland wasteland, but the Nubian desert is more wasteland-esque than this, and Paradox has it inhabited by Beja, so sticking with BT's setup.
- #5276 --> 4322 (Eastern Desert --> Eastern Desert) -same thing, note vanilla is now wasteland while BT remains colonisable. It is a borderland wasteland, but the Nubian desert is more wasteland-esque than this, and Paradox has it inhabited by Beja, so sticking with BT's setup.
  #
  #####Armenia#####
  #407 --> 2308 (Urfa to Urfa) -reorganising IDs based on vanilla changes

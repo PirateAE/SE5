@@ -500,7 +500,6 @@ conquer_egypt_provinces = {
 		#area = cyrenaica_area
 		#BT additions
 		area = lower_nubia_area
-		province_id = 4322
 	}
 	NOT = {
 		province_id = 2322
