@@ -39,6 +39,14 @@ Italy
 	Nation History - NOT DONE
 		Need to fix rulers and vassals
 
+Middle East - NEED TO OVERHAUL at some point - nep
+	Ideas - Need to add
+		Needs localization
+	Trade Goods - initial implemenation
+		need to compare to vanilla and old SE
+	Nation History - NOT DONE
+		Need to fix rulers and vassals
+
 
 Wastelands
 	need to add to right catagories - too lazy atm
