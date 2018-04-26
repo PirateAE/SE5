@@ -7,7 +7,7 @@ add_core = BYZ
 culture = turkish
 religion = sunni
 capital = "Bursa"
-trade_goods = silk
+trade_goods = munitions
 hre = no
 base_tax = 6 			#45k people around the end of the 15th century. Very large, especially compared to the rest of Anatolia at the time. If not balancing dev to vanilla, high teen-low twenties dev would be more appropriate
 base_production = 6
@@ -28,6 +28,9 @@ add_permanent_province_modifier = {
 	name = center_of_trade_modifier
 	duration = -1
 }
+
+1444.11.12 = { remove_core = TUR remove_core = BYZ add_core = OSM owner = OSM add_local_autonomy = 0 }
+1444.11.31 = { add_core = TUR add_core = BYZ remove_core = OSM owner = TUR add_local_autonomy = 0 }
 
 1481.6.1 = { revolt = { type = pretender_rebels size = 1.5 leader = "Jem Osmanoglu" } controller = REB } # Civil war, Bayezid & Jem
 1482.7.26 = { revolt = {} controller = TUR } # Jem escapes to Rhodes

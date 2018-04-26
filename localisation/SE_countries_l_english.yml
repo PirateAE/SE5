@@ -67,3 +67,13 @@
  SAN_ADJ: "Sammarinesi"
  VRN: "Verona"
  VRN_ADJ: "Veronan"
+ ## AFRICA ##
+ #North Africa
+ CYR: "Cyrenaica"
+ CYR_ADJ: "Cyrenaican"
+ PAX: "Alexandria"
+ PAX_ADJ: "Alexandrian"
+ SAI: "Sa'idi"
+ SAI_ADJ: "Sa'idi"
+ TEM: "Knights Templar"
+ TEM_ADJ: "Templar"

@@ -20,6 +20,10 @@ discovered_by = muslim
 discovered_by = ottoman
 discovered_by = nomad_group
 
+1444.11.12 = { remove_core = DUL owner = CIL }
+1444.11.31 = { add_core = DUL owner = DUL }
+
+
 1516.8.24 = {
 	owner = TUR
 	controller = TUR
